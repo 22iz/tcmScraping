@@ -1,0 +1,94 @@
+ANG - Netherlands Antillean Guilder
+VEF - Venezuelan Bolívar Fuerte
+BHD - Bahraini Dinar
+NPR - Nepalese Rupee
+XOF - CFA Franc BCEAO
+JMD - Jamaican Dollar
+ILS - Israeli New Sheqel
+OMR - Omani Rial
+NAD - Namibian Dollar
+DZD - Algerian Dinar
+ISK - Icelandic Króna
+AUD - Australian Dollar
+HNL - Honduran Lempira
+SKK - Slovak Koruna
+RON - Romanian Leu
+TND - Tunisian Dinar
+EUR - Euro
+JOD - Jordanian Dinar
+IDR - Indonesian Rupiah
+KES - Kenyan Shilling
+SEK - Swedish Krona
+MDL - Moldovan Leu
+QAR - Qatari Rial
+PKR - Pakistani Rupee
+BDT - Bangladeshi Taka
+CAD - Canadian Dollar
+BOB - Bolivian Boliviano
+BND - Brunei Dollar
+TRY - Turkish Lira
+SLL - Sierra Leonean Leone
+MKD - Macedonian Denar
+BWP - Botswanan Pula
+MXN - Mexican Peso
+PEN - Peruvian Nuevo Sol
+DOP - Dominican Peso
+NZD - New Zealand Dollar
+TZS - Tanzanian Shilling
+LTL - Lithuanian Litas
+NOK - Norwegian Krone
+KRW - South Korean Won
+RUB - Russian Ruble
+CHF - Swiss Franc
+DKK - Danish Krone
+ARS - Argentine Peso
+NIO - Nicaraguan Cordoba Oro
+CZK - Czech Republic Koruna
+KYD - Cayman Islands Dollar
+FJD - Fijian Dollar
+MVR - Maldivian Rufiyaa
+SAR - Saudi Riyal
+PHP - Philippine Peso
+ZMK - Zambian Kwacha
+CNY - Chinese Yuan Renminbi
+LBP - Lebanese Pound
+LKR - Sri Lanka Rupee
+GBP - British Pound Sterling
+UYU - Uruguayan Peso
+TTD - Trinidad and Tobago Dollar
+LVL - Latvian Lats
+VND - Vietnamese Dong
+NGN - Nigerian Naira
+RSD - Serbian Dinar
+HKD - Hong Kong Dollar
+EGP - Egyptian Pound
+CRC - Costa Rican Colón
+USD - US Dollar
+COP - Colombian Peso
+PYG - Paraguayan Guarani
+UZS - Uzbekistan Som
+INR - Indian Rupee
+YER - Yemeni Rial
+JPY - Japanese Yen
+KWD - Kuwaiti Dinar
+KZT - Kazakhstan Tenge
+HUF - Hungarian Forint
+SCR - Seychellois Rupee
+MUR - Mauritian Rupee
+BGN - Bulgarian Lev
+MYR - Malaysian Ringgit
+AED - United Arab Emirates Dirham
+UGX - Ugandan Shilling
+EEK - Estonian Kroon
+UAH - Ukrainian Hryvnia
+THB - Thai Baht
+ZAR - South African Rand
+PGK - Papua New Guinean Kina
+TWD - New Taiwan Dollar
+CLP - Chilean Peso
+MAD - Moroccan Dirham
+SVC - Salvadoran Colón
+PLN - Polish Zloty
+SGD - Singapore Dollar
+BRL - Brazilian Real
+HRK - Croatian Kuna

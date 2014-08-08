@@ -1,0 +1,11 @@
+filename=file.rstrip()[:-4]
+
+errorHandling: IOError -> noted and move file to another folder, IndexError
+
+mypath
+
+converting time and move done file to another folder
+
+add commodities
+
+add date

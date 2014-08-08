@@ -1,0 +1,162 @@
+file: Reno_Creek_Property_Technical_Report_October_13_2010.txt
+	Creek ISL Project: 1
+	Nichols Ranch Project: 1
+	Northwest North Butte Project: 1
+	ISL Project: 1
+	Recovery Project: 1
+	Nichols Ranch ISR Project: 3
+	Moore Ranch Uranium Project: 1
+	Reno Creek Project: 7
+	project name is ::::::::::::::::::::::: Reno Creek Project
+
+file: Rosemont Copper project Feasability study.txt
+	For The Rosemont Copper Project: 1
+	Echo Bay Gold Aquarius Project: 1
+	Alene Mines Corporation Boleo Project: 1
+	Convey Upgrade Project: 1
+	Phelps Dodge Morenci Coronado Lead Project: 1
+	Kennecott Carmen Feasibility Project: 1
+	Kennecott Greens Creek Cleaner Flotation Project: 1
+	Echo Bay Paredones Amarillos Project: 1
+	I Madero Project: 1
+	Rosemont Project: 9
+	The Rosemont Project: 1
+	Hecla KT Clay Monterrey Expansion Project: 1
+	Battle Mountain Gold Crown Jewel Project: 1
+	ASARCO Ray Tankhouse Upgrade Project: 1
+	Phelps Dodge Ajo Concentrator Project: 1
+	Chapada Project: 1
+	Francisco Gold El Sauzal Project: 1
+	Geomaque San Francisco Gold Project: 1
+	Kennecott Sweetwater Uranium Water Recycle Project: 1
+	Hecla Rosebud Gold Project: 1
+	Central Arizona Project: 3
+	Placer Dome Mulatos Gold Project: 1
+	ASARCO Ray Secondary Crushing Project: 1
+	Fresnillo Grinding Expansion Project: 1
+	Golden Queen Mining Soledad Mountain Project: 1
+	Grupo Mexico Cananea Raffinate Neutralization Project: 1
+	Rosemont Copper Project: 141
+	Minera Penmont La Herradura Gold Project: 1
+	project name is ::::::::::::::::::::::: Rosemont Copper Project
+
+file: San Ramon Deposit.txt
+	Santa Rosa Project: 133
+	Santa Rosa Gold Project: 2
+	San Ramon Project: 4
+	ASSOCIATES
+Red Eagle Mining
+San Ramon Project: 4
+	Five Original Project: 2
+	project name is ::::::::::::::::::::::: Santa Rosa Project
+
+file: Santacruz_Silver_Mining_NI_43_101_Technical_Report_30Aug2012.txt
+	San Felipe Project: 91
+	MTB Project: 1
+	The San Felipe Project: 1
+	project name is ::::::::::::::::::::::: San Felipe Project
+
+file: SEGA NI 43-101 301112.txt
+	Total Other Project: 1
+	The Sega Project: 13
+	Sega Project: 62
+	Proposed Project: 2
+	SEGA Gold Project: 278
+	Karma Project: 2
+	Group Project: 4
+	Other Project: 5
+	Direct Project: 2
+	Overall Project: 3
+	project name is ::::::::::::::::::::::: SEGA Gold Project
+
+file: shore_technical_report_20110826.txt
+	The Star Diamond Project: 3
+	Star Kimberlite Project: 1
+	All Project: 1
+	Midwest Project: 1
+	South Diamond Project: 6
+	Star Project: 1
+	Supervising Project: 2
+	Star-Orion South Diamond Project: 7
+	New Project: 1
+	Orava Mine Project: 2
+	Diamond Project: 12
+	Senior Project: 1
+	Initial Project: 1
+	Project Proposal Star-Orion South Diamond Project: 1
+	Corne Joint Venture Diamond Exploration Project: 1
+	Orion South Diamond Project: 57
+	Final Project: 2
+	Total Project: 1
+	Star Kimberlite Open Pit Project: 1
+	Estimated Project: 1
+	Corne Joint Venture Project: 1
+	Star Diamond Project: 19
+	Clifton Project: 1
+	project name is ::::::::::::::::::::::: Orion South Diamond Project
+
+file: South_Doughstick_TechnicalReport_Amended_and_Restated_2_25_2010.txt
+	North Rolling Pin Project: 1
+	Nichols Ranch Uranium In-Situ Recovery Project: 1
+	Northwest North Butte Project: 1
+	Venture Project: 1
+	Nichols Ranch ISR Project: 3
+	Moore Ranch Uranium Project: 1
+	project name is ::::::::::::::::::::::: Nichols Ranch ISR Project
+
+file: Tech-Report-CanTung-Mine.txt
+	Mactung Project: 1
+	The Pre-Tax Cash Flow Project: 2
+	project name is ::::::::::::::::::::::: The Pre-Tax Cash Flow Project
+
+file: TR-PA-Nichols-Ranch-ISR-SEDAR.txt
+	Uranium ISR Project: 1
+	Nichols Ranch Uranium In-
+Situ Recovery Project: 1
+	Nichols Ranch Uranium Project: 1
+	The Nichols Ranch ISR Project: 1
+	Nichols Ranch Uranium In-Situ Recovery Project: 3
+	Nichol Ranch ISR Project: 1
+	Uranerz Project: 1
+	Ranch ISR Project: 1
+	Collins Draw Project: 1
+	Nichols Ranch ISR Project: 9
+	Technical Report PA-Nichols ISR Project: 73
+	Nichols Ranch Uranium ISR Project: 72
+	project name is ::::::::::::::::::::::: Technical Report PA-Nichols ISR Project
+
+file: UpdatedMineralResourceEstimate300512.txt
+	Molybdenum-Gold Project: 2
+	Yandera Copper-Molybdenum-Gold Project: 6
+	Yandera Central Project: 2
+	Yandera Copper-Molybdenum Project: 2
+	Yandera Project: 25
+	Yandera Copper Project: 1
+	Molybdenum Project: 1
+	project name is ::::::::::::::::::::::: Yandera Project
+
+file: WNB-ENB-WC_Final_Report_12.9.08.txt
+	North Rolling Pin Project: 1
+	Willow Creek Project: 2
+	Nichols Ranch Uranium Project: 1
+	ISR Project: 1
+	Recovery Project: 1
+	Northwest North Butte Project: 1
+	Moore Ranch Uranium Project: 1
+	project name is ::::::::::::::::::::::: Willow Creek Project
+
+file: YAOURE PEA REPORT 25APR2014.txt
+	Angovia Project: 1
+	CI Yaoure Mining SA Project: 1
+	Should Yaoure Gold Project: 1
+	The Yaoure Project: 2
+	Yaoure Project: 17
+	Yaoure Gold Project: 15
+	Other Project: 1
+	Location Map Yaoure Gold Project: 2
+	Yaoure Sulphide Project: 4
+	Key Project: 2
+	Kalsaka Project: 1
+	Gold Project: 2
+	project name is ::::::::::::::::::::::: Yaoure Project
+

@@ -1,0 +1,2474 @@
+file: 01-Morelos-NI-43-101-Feasibility_Final.txt
+	Village Relocation Project: 2
+	A Project: 1
+	Morelos Project: 14
+	SRK Project: 1
+	Morelos Gold Project: 12
+	Morelos	Gold	Project: 1
+	Potential Project: 1
+	Site Water Management Feasibility Designs Morelos Gold Project: 1
+	Gold Project: 2
+	Mineral Project: 5
+	Overall Project: 3
+	project name is ::::::::::::::::::::::: Morelos Project
+
+file: 070828-bikerman-feasibility-study.txt
+	Camp Project: 1
+	Nord Copper Johnson Camp Project: 1
+	JCM Project: 1
+	Johnson Camp Project: 5
+	Mine Project: 1
+	Johnson Camp Mine Project: 4
+	Mineral Project: 1
+	Johnson Camp Copper Project: 3
+	project name is ::::::::::::::::::::::: Johnson Camp Project
+
+file: 110137- NI 43-101- Report_ Haile Gold Mine Final_Condensed[6].txt
+	Haile Gold Mine Project: 8
+	Pre-Tax Project: 1
+	Haile Project: 4
+	Haile Gold Project: 5
+	After Tax Project: 1
+	The Haile Gold Project: 1
+	Key Project: 2
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Haile Gold Mine Project
+
+file: 120807-Gidgee-Scoping-Study-ASX-Release-V6.txt
+	Savannah Project: 2
+	Gidgee Project: 4
+	Individual Project: 3
+	Gidgee Gold Project: 4
+	Thunder Bay North PGM Project: 1
+	The Gidgee Gold Project: 1
+	Mt Henry Gold Project: 1
+	Lanfranchi Project: 1
+	project name is ::::::::::::::::::::::: Gidgee Project
+
+file: 121218-Mt-Henry-Scoping-Study.txt
+	Proposed Project: 1
+	Savannah Project: 1
+	Thunder Bay North PGM Project: 1
+	Mt Henry Project: 9
+	Gidgee Project: 1
+	Gidgee Gold Project: 1
+	Gidgee Project
+Swan Bitter Open Pit
+Heron South Open Pit
+Howards Open Pit
+Specimen Well Open Pit
+Toedter Open Pit
+Eagles Peak Open Pit
+Orion Open Pit
+Deep South Open Pit
+Swan Bitter Underground
+Swift Underground
+Omega Underground
+Kingfisher Underground
+Wilsons Underground
+Mt Henry Project: 1
+	Wilsons Project: 1
+	Mt Henry Gold Project: 2
+	Gold Project: 1
+	The Mt Henry Project: 1
+	project name is ::::::::::::::::::::::: Mt Henry Project
+
+file: 1293527794eagle-tech-report.txt
+	Alberni Aggregates Project: 6
+	Eagle Rock Quarry Project: 20
+	The Eagle Rock Quarry Project: 3
+	Rock Quarry Project: 1
+	Proposed Alberni Aggregates Project: 1
+	Quarry Project: 2
+	project name is ::::::::::::::::::::::: Eagle Rock Quarry Project
+
+file: 130429NI43101ResourceReserveReport.txt
+	Aurizona Gold Project: 1
+	Near Mine Exploration Project: 2
+	Aurizona Project: 1
+	Mineral Project: 1
+	Piaba Project: 1
+	project name is ::::::::::::::::::::::: Near Mine Exploration Project
+
+file: 200209 The Pimenton Mine Au Cu, Chile.txt
+	Mount Taylor Mine Development Project: 1
+	New Mine Project: 1
+	Senior Project: 2
+	Mineral Project: 1
+	Detailed Geology Project: 1
+	project name is ::::::::::::::::::::::: Senior Project
+
+file: 200504 Tianjianshan China .txt
+	The TJS Project: 1
+	The TJS Gold Project: 5
+	TJS Gold Project: 36
+	TJS Project: 3
+	Tanjianshan Gold Project: 85
+	Tanjianshan Gold Mine Expansion Project: 1
+	Gold Project: 19
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Tanjianshan Gold Project
+
+file: 200510 La Laguna Silver Project Ag Au Hg Mexico.txt
+	La Laguna Zacatecana Project: 1
+	project name is ::::::::::::::::::::::: La Laguna Zacatecana Project
+
+file: 20060714 Pinaya Gold-Copper Property Au Cu, Peru.txt
+	Pinaya Project: 39
+	project name is ::::::::::::::::::::::: Pinaya Project
+
+file: 20061018 Kanmantoo Copper Gold Project Cu Au, South Australia.txt
+	project name is ::::::::::::::::::::::: noName -- 20061018 Kanmantoo Copper Gold Project Cu Au, South Australia
+
+file: 20070402 La Espanola Property Au Cu, Peru.txt
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Mineral Project
+
+file: 20070928 Johnson Camp Mine Project Cu Arizona.txt
+	Camp Project: 1
+	Nord Copper Johnson Camp Project: 1
+	JCM Project: 1
+	Johnson Camp Project: 5
+	Mine Project: 1
+	Johnson Camp Mine Project: 4
+	Mineral Project: 1
+	Johnson Camp Copper Project: 3
+	project name is ::::::::::::::::::::::: Johnson Camp Project
+
+file: 200712 Ruby Creek Project Mo Canada.txt
+	Mineral Resource Estimate Ruby Creek Project: 3
+	Ruby Creek Project: 9
+	Adanac Molybdenum Project: 1
+	Creek Molybdenum Project: 1
+	Molybdenum Project: 4
+	Ruby Creek Molybdenum Project: 6
+	project name is ::::::::::::::::::::::: Ruby Creek Project
+
+file: 20080331 Fort Knox Mine Au Alaska.txt
+	Heap Leach Project: 1
+	True North Project: 1
+	Fort Knox Project: 7
+	project name is ::::::::::::::::::::::: Fort Knox Project
+
+file: 20080425 Mount Hope Project Mo USA.txt
+	Hope Project: 5
+	Unpatented Claims Outside Project: 2
+	Design For The Mount Hope Project: 1
+	After Tax Project: 1
+	Progress Report Mount Hope Project: 1
+	Mount Hope Project: 16
+	Key Project: 2
+	With Different Water Samples And Flow Sheets Project: 1
+	Geotechnical Studies Project: 1
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Mount Hope Project
+
+file: 20080613 Gullewa Gold-Copper Project Au Cu, Australia.txt
+	The Gullewa Project: 2
+	Michelangelo Project: 1
+	The Main Gullewa Project: 3
+	Deflector Project: 2
+	Gullewa Copper-Gold Project: 4
+	Gullewa Project: 132
+	Diamond Project: 1
+	Snowden Project: 11
+	Rothsay Project: 1
+	New Phoenix Project: 1
+	Gullewa Gold Project: 6
+	Gullewa Gold-Copper Project: 1
+	Gullewa Gold-
+Copper Project: 1
+	Main Gullewa Project: 1
+	Mineral Project: 1
+	Deflector Gold Copper Project: 1
+	project name is ::::::::::::::::::::::: Gullewa Project
+
+file: 20080930 Pampa de Pongo Iron Project Fe Au Cu Peru.txt
+	Pongo Fe Project: 4
+	SRK Project: 2
+	Project Post Tax Discounted Cash Flow Project: 2
+	Pongo Iron Project: 12
+	Possible Pre-Production Project: 2
+	Mineral Project: 2
+	Pongo Project: 18
+	project name is ::::::::::::::::::::::: Pongo Project
+
+file: 20090303 Essakane Gold Project Au Burkina Faso.txt
+	Gold Fields Project: 1
+	International Project: 1
+	Essakane Gold Project: 204
+	Gross Project: 3
+	The Essakane Project: 1
+	Camp Caiman Project: 1
+	Representatives
+Project: 1
+	Senior Project: 3
+	Essakane Project: 20
+	Overall Project: 2
+	project name is ::::::::::::::::::::::: Essakane Gold Project
+
+file: 20090519 Puthep Cu Au, Thailand.txt
+	project name is ::::::::::::::::::::::: noName -- 20090519 Puthep Cu Au, Thailand
+
+file: 20090921 Pitarrilla Property Ag.txt
+	La
+Pitarrilla Project: 1
+	New Project: 1
+	La Pitarrilla Project: 6
+	Preliminary Project: 2
+	PMT
+Project: 1
+	Total Project: 1
+	The Detailed Project: 1
+	The Pitarrilla Project: 1
+	PMS
+Project: 1
+	Pitarrilla Project: 3
+	Supervising Project: 2
+	project name is ::::::::::::::::::::::: La Pitarrilla Project
+
+file: 20091019 Nullagine Project Au Australia.txt
+	The Nullagine Gold Project: 1
+	Nullagine Gold Project: 5
+	Millennium Minerals Nullagine Project: 1
+	Key Project: 1
+	project name is ::::::::::::::::::::::: Nullagine Gold Project
+
+file: 20091023 Fuwan Silver project Ag Au Pb Zn China.txt
+	Preliminary Project: 2
+	Changkeng Project: 1
+	Fuwan Project: 9
+	Minco Silver Project: 1
+	The Changkeng Project: 1
+	SRK Project: 4
+	The Detailed Project: 1
+	Silver Project: 1
+	Fuwan Silver Project: 325
+	Hydroelectric Project: 2
+	project name is ::::::::::::::::::::::: Fuwan Silver Project
+
+file: 20100111 Roseby Copper project Cu Au Australia.txt
+	Preliminary Project: 1
+	Copper Project: 2
+	Engineering Project: 1
+	Roseby Copper Project: 73
+	Metallurgy Appendix Project: 1
+	Roseby Project: 5
+	Dugald River Project: 1
+	project name is ::::::::::::::::::::::: Roseby Copper Project
+
+file: 20100301 Inca de Oro Copper-Gold Project Resource table Cu Au Mo, Chile.txt
+	project name is ::::::::::::::::::::::: noName -- 20100301 Inca de Oro Copper-Gold Project Resource table Cu Au Mo, Chile
+
+file: 20100622 Chisna Copper Gold Project Cu Au, Alaska.txt
+	Chisna Copper Gold Project: 3
+	Processing Helicopter Aeromagnetic Survey Chisna SE Project: 1
+	project name is ::::::::::::::::::::::: Chisna Copper Gold Project
+
+file: 20100625 Hannukainen Fe Cu Finland.txt
+	NRSA Project: 1
+	The Kaunisvaara Project: 2
+	Hannukainen PEA Project: 254
+	NRSA Kaunisvaara Project: 1
+	Outline Project: 1
+	Copper Gold Project: 1
+	Advance Project: 1
+	SGS Project: 3
+	Northland Resources
+SGS Project: 1
+	Hannukainen Iron Ore Project: 4
+	Hainnenain Project: 1
+	Key Project: 1
+	Overall Project: 1
+	Kaunisvaara Project: 1
+	Hannukainen IOCG Project: 2
+	Mine Project: 1
+	V Client Project: 1
+	Reform Project: 1
+	Gate Review- Project: 1
+	Hannukainen Project: 19
+	EPCM Project: 2
+	Hannuakinen Project: 2
+	The Hannukainen Project: 1
+	project name is ::::::::::::::::::::::: Hannukainen PEA Project
+
+file: 20100630 Detour Lake Project Au Canada.txt
+	Lake Project: 3
+	Detour Gold Project: 3
+	Detour Lake Temporary Power Project: 1
+	Detour Lake Project: 582
+	Delkor Thickener Selection Detour Lake Project: 1
+	Atkinson Project: 2
+	Melis Project: 2
+	LOM Cash Flow Project: 2
+	Facility Development Project: 1
+	The Detour Lake Project: 1
+	Electricity Project: 1
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Detour Lake Project
+
+file: 20100705 West Pilbara Iron Ore Project Fe SiO2 Al2O3 Australia.txt
+	Mt Elvire Project: 1
+	Hardey Iron Ore Project: 1
+	West Pilbara Project: 1
+	West Pilbara Iron Ore Project: 2
+	project name is ::::::::::::::::::::::: West Pilbara Iron Ore Project
+
+file: 20100723 Canyon Creek Copper-Gold Deposit Au Cu, Canada.txt
+	project name is ::::::::::::::::::::::: noName -- 20100723 Canyon Creek Copper-Gold Deposit Au Cu, Canada
+
+file: 20100805 Amayapampa Gold Project Au Brazil.txt
+	Preliminary Project: 1
+	Amayapampa Gold Project: 1
+	project name is ::::::::::::::::::::::: Preliminary Project
+
+file: 201009 Brace-McLeod Zn Canada.txt
+	Bracemac-
+McLeod Project: 6
+	Matagami Project: 6
+	Bracemac-McLeod Project: 63
+	Bell-Allard Project: 1
+	Senior Project: 5
+	The Bracemac-McLeod Project: 10
+	MS Project: 1
+	Mineral Project: 2
+	Callahan Project: 1
+	project name is ::::::::::::::::::::::: Bracemac-McLeod Project
+
+file: 20100901 Boseto Copper Project Cu Botswana.txt
+	Botswana Project: 1
+	Boseto Project: 4
+	Dikoloti Nickel Project: 1
+	Independent Project: 1
+	New Resource Project: 1
+	Copper Project: 1
+	Boseto Copper Project: 3
+	project name is ::::::::::::::::::::::: Boseto Project
+
+file: 20101001 Mt.Todd Gold Project Au Australia.txt
+	The Mt Todd Gold Project: 1
+	Mt Todd Gold Project: 226
+	Map Mt Todd Gold Project: 1
+	Total Project: 2
+	PAH Project: 1
+	Mount Todd Gold Project: 2
+	Mt Todd Project: 13
+	Quigleys Gold Project: 1
+	Tetra Tech Project: 1
+	Water Erosion Prediction Project: 1
+	Todd Project: 7
+	Todd Gold Project: 7
+	The Mt Todd Project: 4
+	project name is ::::::::::::::::::::::: Mt Todd Gold Project
+
+file: 20101007 Las Curras Copper-Gold Porphyry Prospect, Argentina.txt
+	The Las
+Burras Project: 1
+	Burras Project: 1
+	Las Burras Project: 2
+	project name is ::::::::::::::::::::::: Las Burras Project
+
+file: 20101029 Didipio Gold-Copper Project Au Cu, Philippines.txt
+	Didipio Cooper-Gold Project: 1
+	Didipio Gold Copper Project: 2
+	The Didipio Gold-Copper Project: 6
+	Didipio Copper-Gold Project: 1
+	Mining Project: 1
+	Climax Didipio Project: 1
+	Gold-
+Copper Project: 1
+	Didipio Project: 18
+	The Didipio Project: 1
+	Didipio Gold-Copper Project: 52
+	Didipio Copper-Gold Project Luzon Philippines Project: 1
+	Gold-Copper Project: 2
+	Mineral Project: 1
+	Process Tailings Didipio Gold-Copper Project: 1
+	project name is ::::::::::::::::::::::: Didipio Gold-Copper Project
+
+file: 20101215 Kitsault Molybdenum Project Mo Ag Canada.txt
+	Kitsault Molybdenum Project: 1
+	General Project: 2
+	The Kitsault Project: 3
+	Federal Major Project: 1
+	Kitsault Project: 12
+	Kitsault Mine Project: 4
+	Surface Geological Project: 2
+	Mineral Project: 9
+	project name is ::::::::::::::::::::::: Kitsault Project
+
+file: 20110110 Copperstone Project Au USA.txt
+	Cyprus Copperstone Corporation Underground Project: 1
+	The Copperstone Project: 3
+	Cyprus Copperstone Gold Project: 1
+	Copperstone Project: 13
+	Feasibility Report Copperstone Project: 1
+	Report Copperstone Project: 1
+	Cyprus Copperstone Project: 1
+	Copperstone Ore Project: 1
+	Gold Project: 2
+	HRI Project: 1
+	project name is ::::::::::::::::::::::: Copperstone Project
+
+file: 20110118 Canariaco Project Cu Au Ag Peru.txt
+	Mineral Project: 5
+	Norte Copper Project: 4
+	Norte Project: 8
+	Major Project: 2
+	Copper Project: 1
+	Canariaco Project: 4
+	Porphyry Copper Project: 2
+	project name is ::::::::::::::::::::::: Norte Project
+
+file: 20110210 Haile Gold Project Au US.txt
+	Haile Gold Mine Project: 3
+	Pre-Tax Project: 1
+	Total Project: 1
+	Gold Mine Project: 1
+	Haile Project: 1
+	Haile Gold Project: 3
+	After Tax Project: 1
+	The Haile Gold Project: 2
+	Key Project: 2
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Haile Gold Project
+
+file: 20110211 El Castillo Mine Au Cu, Mexico.txt
+	Disclosure For Mineral Project: 1
+	Pre-Feasibility Report El Cairo Gold Project: 1
+	El Castillo Project: 7
+	The El Castillo Project: 1
+	General Project: 2
+	El Castillo Gold Project: 2
+	SRK Project: 1
+	Various Project: 1
+	El Cairo Project: 1
+	Pre-Feasibility Report El Castillo Project: 1
+	E
+Project: 1
+	project name is ::::::::::::::::::::::: El Castillo Project
+
+file: 20110216 The Direct Shipping Iron Ore Fe Canada.txt
+	Explosives Project: 2
+	Integrated Project: 1
+	Price Project: 1
+	Overall DSO Project: 2
+	DSO Project: 112
+	New Millennium Project: 1
+	Summary Project: 2
+	The Integrated Project: 1
+	Senior Project: 2
+	IPT Project: 1
+	Railway Project: 3
+	project name is ::::::::::::::::::::::: DSO Project
+
+file: 201103 Passendro Gold Project Au Central African Republic.txt
+	The Passendro Project: 1
+	Passendro Project: 16
+	Mine Project: 1
+	Passendro Gold Project: 128
+	Total Project: 1
+	Bambari Project: 2
+	Passendro Gold Mine Project: 2
+	project name is ::::::::::::::::::::::: Passendro Gold Project
+
+file: 20110308 Madaouela Project U Niger.txt
+	Madaouela Uranium Project: 26
+	SRK Project: 1
+	Madaouela Project: 2
+	The Madaouela Uranium Project: 5
+	Uranium Project: 1
+	project name is ::::::::::::::::::::::: Madaouela Uranium Project
+
+file: 20110406 Mbalam Iron ore Project Fe Congo.txt
+	Mbalam Iron Ore Project: 9
+	The Mbalam Iron Ore Project: 3
+	project name is ::::::::::::::::::::::: Mbalam Iron Ore Project
+
+file: 20110408 Otelnuk Lake Fe Canada.txt
+	Lac Otelnuk Project: 4
+	Cash Flow Project: 3
+	Otelnuk Lake Iron Ore Project: 196
+	Ore Project: 2
+	The Otelnuk Iron Project: 1
+	Lac Otelnuk Iron Project: 10
+	Otelnuk Project: 1
+	Lac Otelnuk Iron Ore Project: 2
+	Lake Iron Ore Project: 1
+	Senior Project: 2
+	The Otelnuk Project: 1
+	From Project: 1
+	project name is ::::::::::::::::::::::: Otelnuk Lake Iron Ore Project
+
+file: 20110505 Miwah Project Au Cu, Indonesia.txt
+	Sampling Miwah Project: 1
+	Martabe Project: 1
+	Miwah Gold Project: 35
+	Woyla Gold Project: 1
+	The Miwah Project: 2
+	Miwah Project: 119
+	Mineral Project: 3
+	Sumatra Project: 1
+	Halimon Project: 2
+	East Asia Minerals Miwah Project: 1
+	project name is ::::::::::::::::::::::: Miwah Project
+
+file: 20110601 Kaunisvaara Fe Sweden.txt
+	Kaunisvaara Project: 8
+	Cash Flow Project: 1
+	Ore Project: 1
+	Sahavaara Kaunisvaara Project: 1
+	Iron Project: 3
+	Sahavaara Project: 1
+	Kaunisvaara Iron Ore Project: 4
+	SRK Project: 2
+	Twin Parameter Project: 4
+	Pajala Project: 1
+	Mine Dewatering Project: 2
+	project name is ::::::::::::::::::::::: Kaunisvaara Project
+
+file: 20110616 Tujuh Bukit Copper-Gold Project Cu Au, Indonesia.txt
+	Tujuh Bukit Copper-Gold Project: 1
+	project name is ::::::::::::::::::::::: Tujuh Bukit Copper-Gold Project
+
+file: 20110627 Wetar copper project Cu Indonesia.txt
+	The Wetar Copper Project: 2
+	Approvals
+Project: 1
+	Execution
+Project: 1
+	Introduction
+Contents
+Location
+Project Layout
+Project: 1
+	Wetar Copper Project: 6
+	project name is ::::::::::::::::::::::: Wetar Copper Project
+
+file: 20110831 Gibellini Vanadium Project V2O5 USA.txt
+	Total Project: 4
+	Gibellini Vanadium Mine Feasibility Study Project: 1
+	The Gibellini Project: 5
+	Technical Report Gibellini Vanadium Project: 2
+	Gibellini Vanadium Project: 8
+	Mine Feasibility Study Project: 1
+	Gibellini Project: 38
+	Mineral Project: 4
+	project name is ::::::::::::::::::::::: Gibellini Project
+
+file: 20110901 AZOD Project Zn Pb Peru.txt
+	Base Case Project: 4
+	Preliminary Project: 1
+	Total Project: 1
+	AZOD Project: 42
+	Estimated Total Project: 3
+	AZOD Zinc Oxide Project: 191
+	Las Bambas Project: 2
+	Recommended AZOD Project: 4
+	Mineral Project: 2
+	Net Project: 1
+	project name is ::::::::::::::::::::::: AZOD Zinc Oxide Project
+
+file: 20111011 La Higuera Copper-Gold Project Au Cu, Chile.txt
+	La Higuera Pole Project: 1
+	Caballo Blanco Project: 2
+	La Higuera Project: 27
+	Copper-
+Gold Project: 1
+	The Higuera Project: 1
+	Higuera Project: 4
+	La Higuera Copper-Gold Project: 1
+	The La Higuera Project: 2
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: La Higuera Project
+
+file: 20111116 Glenburgh Gold Project Au Australia.txt
+	Glenburgh Project: 2
+	Glenburgh Gold Project: 2
+	project name is ::::::::::::::::::::::: Glenburgh Gold Project
+
+file: 20111118 Bonasika Ore Canada.txt
+	Proposed Project: 2
+	Total Project: 2
+	Mineral
+Project: 1
+	Bonasika Project: 249
+	Natural Resources Management Project: 1
+	Wider Project: 2
+	Bonasika Bauxite Project: 2
+	Mineral Project: 3
+	Design Review Report Sandhills Wharf Project: 1
+	project name is ::::::::::::::::::::::: Bonasika Project
+
+file: 201112 Hillside Project Cu Au Fe, Australia.txt
+	South Australian Project: 1
+	Hillside Project: 5
+	project name is ::::::::::::::::::::::: Hillside Project
+
+file: 20111219 Pan Project Au US.txt
+	The Pan Project: 3
+	Construction Phase Project: 2
+	Total Pan Project: 2
+	Economic Project: 3
+	Pan Project: 62
+	Pan Gold Project: 209
+	Gold Rock Project: 1
+	Gold Project: 3
+	Mineral Project: 1
+	HRI Project: 1
+	project name is ::::::::::::::::::::::: Pan Gold Project
+
+file: 20111221 Gabbs Gold-Copper Property Au Cu, USA.txt
+	Isometric Project: 2
+	Drill HoleSt Vincent MineralsGabbs Project: 1
+	Sullivan Project: 1
+	The Gabbs Project: 5
+	Gabbs Project: 16
+	New Project: 1
+	Drill Hole St Vincent MineralsGabbs Project: 1
+	Supervising Project: 2
+	project name is ::::::::::::::::::::::: Gabbs Project
+
+file: 20111230 Expansion of Choco 10 Au Venezuela.txt
+	Choco Project: 2
+	Bolivar State Gold Project: 1
+	Increible Project: 1
+	Gold Project: 1
+	Rusoro Project: 1
+	Mining Development Project: 1
+	Choco Gold Project: 1
+	project name is ::::::::::::::::::::::: Choco Project
+
+file: 20120116 Caspich Project Cu Ag Chile.txt
+	Mineral Project: 6
+	Caspiche Project: 14
+	project name is ::::::::::::::::::::::: Caspiche Project
+
+file: 20120214 Red Chris Copper-Gold Project.txt
+	Red Chris Copper-Gold Project: 3
+	Marlin Project: 1
+	Less Project: 2
+	Ongoing Four-Year Geological Mapping Project: 1
+	Northwest Transmission Line Project: 2
+	Porphyry Footprint Project: 1
+	Total Project: 1
+	Red-Chris Copper-Gold Project: 1
+	La Come Project: 1
+	Wolverine Project: 1
+	Kisladag Project: 1
+	Voisey Bay Project: 1
+	Red Chris Project: 16
+	Meadowbank Project: 1
+	Senior Project: 1
+	NTL Project: 2
+	Chris Project: 1
+	Copper-Gold Project: 1
+	Manager Project: 2
+	La Corne Project: 1
+	project name is ::::::::::::::::::::::: Red Chris Project
+
+file: 201203 Karchiga Cu Au Kazakhstan.txt
+	The Karchiga Project: 7
+	Subtotal
+Contingency
+Total Project: 1
+	Karchiga Project: 26
+	Total Project: 1
+	SRK Project: 2
+	Calendar Year
+Production Year
+CAPITAL EXPENDITURES
+Project: 3
+	project name is ::::::::::::::::::::::: Karchiga Project
+
+file: 201203 Kuriskova project U Slovakia.txt
+	Total Initial Project: 1
+	Graph Relating Research Project: 2
+	Preliminary Feasibility Study
+Kuriskova Uranium Project: 1
+	Kuriskova Uranium Project: 272
+	Billion Project: 1
+	Jahodna Uranium Project: 1
+	Tetra Tech Project: 1
+	Kuriskova Project: 1
+	Novoveska Huta Project: 1
+	Mineral Project: 1
+	Uranium Project: 4
+	project name is ::::::::::::::::::::::: Kuriskova Uranium Project
+
+file: 20120301 San Jorge 25ktpy Copper Leach Project Cu Argentina.txt
+	Environmental Impact Study Sulphide Project: 2
+	San Jorge Leach Project: 1
+	Leach Project: 2
+	Jorge Project: 1
+	San Jorge Copper Project: 1
+	Copper Leach Project: 1
+	San Jorge Copper Leach Project: 1
+	After Tax Project: 2
+	Pre Tax Project: 2
+	Water Exploration Project: 2
+	San Jorge Exploration Project: 1
+	San Jorge Project: 23
+	project name is ::::::::::::::::::::::: San Jorge Project
+
+file: 20120323 El Morro Project Au Cu Chile.txt
+	The El Morro Project: 6
+	Proposed Project: 1
+	Morro Copper-Gold Project: 1
+	El Morro Copper-Gold Project: 2
+	El Morro Project: 240
+	General Project: 2
+	El Morro Copper Gold Project: 1
+	Morro Project: 6
+	Mineral Project: 2
+	La Fortuna Project: 2
+	project name is ::::::::::::::::::::::: El Morro Project
+
+file: 20120324 Copperwood Project Ag Michigan USA.txt
+	Orvana Resource Copperwood Project: 2
+	Total Project: 3
+	Misc
+Document Control
+Site Visits
+Per Diem Expenses
+Project: 1
+	Contingency
+Orvana Project: 1
+	INDIRECT COST
+Project: 4
+	Feasibility Study
+Project: 23
+	The Copperwood Project: 2
+	Start-Up
+Project: 1
+	NAD83 Michigan North State Plane International Feet Project: 1
+	Testing
+Review Detail Engineering Dwgs
+Project: 1
+	Technical Report For Copperwood Project: 1
+	Copperwood Project: 346
+	Orvana Project: 1
+	project name is ::::::::::::::::::::::: Copperwood Project
+
+file: 20120329 Harper Creek Copper Project Cu Canada.txt
+	project name is ::::::::::::::::::::::: noName -- 20120329 Harper Creek Copper Project Cu Canada
+
+file: 20120329 Lalor Deposit Zn Au Ag Cu Canada.txt
+	Total Lalor Project: 1
+	Lalor Advanced Exploration Project: 1
+	Major Project: 4
+	Advanced Exploration Project: 1
+	Lalor Concentrator Project: 4
+	Lalor Project: 11
+	The Lalor Project: 1
+	Mineral Project: 3
+	The Lalor Advanced Exploration Project: 1
+	project name is ::::::::::::::::::::::: Lalor Project
+
+file: 20120403 Jervois Project Cu Ag Au Australia.txt
+	Copper-
+Silver-Gold Project: 1
+	project name is ::::::::::::::::::::::: Copper- Silver-Gold Project
+
+file: 20120405 Granduc Copper Project Au Cu, Canada.txt
+	Granduc Copper Project: 139
+	SRK Project: 1
+	Granduc Mine Underground Geological Mapping Project: 1
+	Granduc Project: 5
+	project name is ::::::::::::::::::::::: Granduc Copper Project
+
+file: 20120405 Victoria Gold Corp Au Canada.txt
+	Ajax Project: 1
+	Senior Project: 2
+	Previous Project: 1
+	This Project: 1
+	Total Project: 2
+	KSM Project: 1
+	All Project: 1
+	Afton Project: 1
+	Heap Leach Facility Feasibility Design Eagle Gold Project: 1
+	General Project: 1
+	Dublin Gulch Project: 4
+	Galore Creek Project: 1
+	Feasibility Study Eagle Gold Project: 16
+	Eagle Gold Heap Leach Project: 2
+	Eagle Gold Project: 384
+	Spanish Mountain Gold Project: 1
+	Four Gold-containing Samples Dublin Gulch Project: 1
+	Donlin Creek Project: 1
+	Gold Project: 1
+	Mineral Project: 1
+	Overall Project: 2
+	project name is ::::::::::::::::::::::: Eagle Gold Project
+
+file: 20120416 Invicta Gold Project Au Cu, Peru.txt
+	The Victoria Project: 1
+	Invicta Gold Project: 187
+	Preliminary Project: 2
+	SRK Project: 1
+	Victoria Project: 1
+	The Invicta Project: 17
+	Invicta Project: 106
+	Plan View Project: 1
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Invicta Gold Project
+
+file: 20120417 Dewey-Burdock Project Ur.txt
+	Dewey Burdock Project: 1
+	Dewey Project: 2
+	Disclosure For Mineral Project: 1
+	Dewey-Burdock ISR Project: 2
+	Dewey- Burdock Project: 1
+	SRK Project: 14
+	The Dewey-Burdock Project: 4
+	Dewey-Burdock Uranium Project: 16
+	Operating Margin
+Project: 1
+	Dewey-Burdock Project: 85
+	Dewey-
+Burdock Project: 2
+	Burdock Project: 3
+	project name is ::::::::::::::::::::::: Dewey-Burdock Project
+
+file: 20120427 Miraflores Deposit Au Colombia.txt
+	These Miraflores Project: 1
+	My Project: 1
+	Miraflores Project: 16
+	SRK Project: 1
+	Seafield-Miraflores Project: 1
+	Operating Margin
+Project: 1
+	Seafield Miraflores Project: 2
+	The Miraflores Project: 2
+	project name is ::::::::::::::::::::::: Miraflores Project
+
+file: 20120504 Kvanefjeld Project Ur Greenland.txt
+	project name is ::::::::::::::::::::::: noName -- 20120504 Kvanefjeld Project Ur Greenland
+
+file: 20120514 Little Eva Cu Au Australia.txt
+	The Outokumpu Project: 1
+	Little Eva Copper-Gold Project: 1
+	The Little Eva Project: 3
+	Roseby Project: 2
+	Little Eva Project: 1
+	The Roseby Copper Project: 1
+	project name is ::::::::::::::::::::::: The Little Eva Project
+
+file: 20120524 Etango Uranium Project Ur Namibia.txt
+	Etango Project: 97
+	Proposed Etango Project: 2
+	Initial Project: 1
+	Igneous Mining Project: 1
+	Total Project: 12
+	Etango Uranium Project: 305
+	A Project: 1
+	The Etango Project: 6
+	Goanikontes Uranium Project: 2
+	Bannerman Resources Etango Uranium Project: 1
+	Mineral Project: 7
+	Uranium Project: 2
+	project name is ::::::::::::::::::::::: Etango Uranium Project
+
+file: 20120606 Sangdong Project W Mo South Korea.txt
+	Sangdong Project: 221
+	project name is ::::::::::::::::::::::: Sangdong Project
+
+file: 20120622 KSM Au Ag Cu Mo Canada.txt
+	KSM Project: 8
+	The KSM Project: 8
+	project name is ::::::::::::::::::::::: The KSM Project
+
+file: 20120629 Cerro del Gallo Gold Silver Project Au Cu Ag, Mexico.txt
+	Gallo Project: 7
+	Silver Project: 1
+	Gallo Gold Project: 1
+	San Anton Project: 1
+	Gallo Gold Silver Project: 1
+	Cerro Del Gallo Project: 1
+	project name is ::::::::::::::::::::::: Gallo Project
+
+file: 20120701 Juanicipio Au-Ag-Zn Mexico.txt
+	project name is ::::::::::::::::::::::: noName -- 20120701 Juanicipio Au-Ag-Zn Mexico
+
+file: 20120703 MT Kare Au Ag Indonesia.txt
+	Niumataiwalu
+Project: 1
+	project name is ::::::::::::::::::::::: Niumataiwalu Project
+
+file: 20120712 Sugar Zone Au Canada.txt
+	project name is ::::::::::::::::::::::: noName -- 20120712 Sugar Zone Au Canada
+
+file: 20120724 Cotabambas Copper-Gold Project Au Cu, Peru.txt
+	AgCotabambas Copper-Gold Project: 1
+	The Cotabambas Project: 8
+	Drilling Project: 1
+	Cotabambas Copper-Gold Project: 99
+	Cotabambas Project: 5
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Cotabambas Copper-Gold Project
+
+file: 20120731 Mt Carrington Project Au Ag Australia.txt
+	project name is ::::::::::::::::::::::: noName -- 20120731 Mt Carrington Project Au Ag Australia
+
+file: 20120823 Bissett Creek Graphte Project Cg Canada.txt
+	The Bissett Creek Graphite Project: 1
+	Bissett Creek Graphite Mine Project: 1
+	Bissett Creek Graphite Project: 256
+	Bissett Creek Project: 17
+	Bissett Creek Flake Graphite Project: 1
+	ARES Corporation Prism Project: 1
+	The Bissett Creek Project: 1
+	CREEK
+Project: 2
+	Creek Project: 4
+	Bisset Creek Project: 1
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Bissett Creek Graphite Project
+
+file: 20120828 Rosemont Copper Project Cu USA.txt
+	Augusta Resoruce Corporation
+Rosemont Copper Project: 1
+	MSRDI Project: 1
+	RosemontCopper	Project: 1
+	The Rosemont Copper Project: 3
+	Augusta Resource Rosemont Project: 1
+	Rosemont Project: 31
+	The Rosemont Project: 3
+	Rosemont Copper Project: 21
+	Central Arizona Project: 1
+	project name is ::::::::::::::::::::::: Rosemont Project
+
+file: 20120905 Amulsar Project Au Amenia.txt
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Mineral Project
+
+file: 20120912 Artillery Peak Project Mn USA.txt
+	Thickener Project: 1
+	Metal Production Project: 1
+	Artillery Peak Project: 278
+	Some Project: 1
+	Artillery Peak Rocher Project: 1
+	IRAP Project: 2
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Artillery Peak Project
+
+file: 20120912 Saza-Makongolosi Gold Project Au Tanzania.txt
+	Saza-Makongolosi Project: 39
+	Saza-Makongolosi Gold Project: 2
+	SMP Gold Project: 1
+	Saza Makongolosi Project: 2
+	Saza-
+Makongolosi Gold Project: 1
+	SRK Project: 1
+	Gold Project: 2
+	Mineral Project: 2
+	SGS Project: 1
+	project name is ::::::::::::::::::::::: Saza-Makongolosi Project
+
+file: 20120927 Ularring Fe Australia.txt
+	Lake Giles Project: 5
+	Yearly Project: 2
+	The Ularring Hematite Project: 7
+	Moonshine Project: 1
+	Hematite Project: 11
+	Mining Project: 3
+	Macarthur Iron Ore Project: 1
+	Lake Giles Iron Project: 2
+	Moonshine Magnetite Project: 2
+	Ularring Hematite Project: 62
+	Lake Giles Iron Ore Project: 1
+	For Mining Project: 1
+	Giles Project: 1
+	NI43-101 Technical Report On Lake Giles Iron Ore Project: 1
+	project name is ::::::::::::::::::::::: Ularring Hematite Project
+
+file: 20121002 Mt Kare Project Au Ag New Papua Guinea.txt
+	PNG Project: 1
+	Silver Project: 3
+	project name is ::::::::::::::::::::::: Silver Project
+
+file: 20121015 Serrote da Laje Cu Au Magnetite Brazil.txt
+	Copper-Gold-Iron Ore Project: 2
+	Total Project: 8
+	Simplified Project: 2
+	Acquire Arapiraca Project: 1
+	Laje Project: 7
+	Arapiraca Project: 5
+	The Serrote Project: 8
+	Key Project: 2
+	Serrote Project: 69
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Serrote Project
+
+file: 20121017 Tropicana Project Au Australia.txt
+	Background
+The Karlawinda Gold Project: 1
+	Background
+The Stockman Project: 1
+	Stockman Project: 1
+	Stockman	Copper-Zinc-Silver-Gold	Project: 2
+	Tropicana Gold Project: 3
+	Karlawinda	Gold	Project: 1
+	The	Project: 1
+	Background
+The	Tropicana	Gold	Project: 1
+	Stockman Cu-Zn-Ag-Au Project: 2
+	project name is ::::::::::::::::::::::: Tropicana Gold Project
+
+file: 20121017 Unicorn Project Mo Cu Ag Australia.txt
+	Unicorn Project: 3
+	Key Project: 1
+	project name is ::::::::::::::::::::::: Unicorn Project
+
+file: 20121018 El Pilar Project Cu Mexico.txt
+	The El Pilar Project: 1
+	El Pilar Copper Project: 1
+	Meter Lift Height Project: 4
+	Day Copper Recovery Project: 2
+	METSIM Metallurgical Project: 6
+	El Pilar Project: 19
+	METCON Research Project: 2
+	El Pilar Base Case Project: 1
+	In El Pilar Project: 1
+	project name is ::::::::::::::::::::::: El Pilar Project
+
+file: 20121019 Eagle's Nest Project Ni Cu Pt Pd Au Canada.txt
+	Lake Project: 1
+	The McFaulds Lake Project: 2
+	Double Eagle Project: 1
+	Eagles Nest Mine Project: 1
+	Nest Project: 18
+	McFaulds Lake Project: 18
+	Cliffs Chromite Project: 2
+	project name is ::::::::::::::::::::::: McFaulds Lake Project
+
+file: 20121102 Hopes Advance Bay Fe Canada.txt
+	Hopes Advance Bay Project: 1
+	Advance Project: 1
+	Ore Project: 1
+	Advance Bay Project: 2
+	Cash Flow Project: 6
+	Ungava Bay Project: 1
+	Hopes Advance Project: 27
+	project name is ::::::::::::::::::::::: Hopes Advance Project
+
+file: 20121105 Jambreiro Fe Brazil.txt
+	Jambreiro Project: 7
+	Jambreiro Iron Ore Project: 1
+	Mine Life Upside Beyond Friable Jambreiro Project: 1
+	project name is ::::::::::::::::::::::: Jambreiro Project
+
+file: 20121108 Ak-Sug Project Cu Au Mo Re Russia.txt
+	Ak-Sug Project: 10
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Ak-Sug Project
+
+file: 20121110 Commonwealth Hill Iron Project Fe Australia.txt
+	Commonwealth Hill Iron Ore Project: 1
+	Commonwealth Hill Project: 1
+	project name is ::::::::::::::::::::::: Commonwealth Hill Project
+
+file: 20121207 Mayaniquel Ni Guatemala.txt
+	Current Project: 2
+	MTB Project: 216
+	Sechol Project: 1
+	Estimated Project: 1
+	Subtotal Project: 1
+	Koniambo Nickel Project: 1
+	Training
+Project: 1
+	Assessment Mayaniquel Project: 1
+	Mayaniquel Project: 73
+	The Mayaniquel Project: 8
+	Fenix Project: 1
+	project name is ::::::::::::::::::::::: MTB Project
+
+file: 20121217 Rose Deposit Fe Canada.txt
+	GemcomTM Project: 1
+	Major Resource Project: 1
+	Major Project: 4
+	Kami Iron Ore Project: 10
+	Kami Mine Project: 1
+	Site Plan Kami Iron Ore Project: 2
+	Detailed Project: 2
+	The Major Project: 1
+	Carol Project: 1
+	Alderon Kami Project: 1
+	Key Project: 4
+	Kami Project: 17
+	Nominal Operating Values Project: 4
+	A Project: 1
+	Wabush Project: 1
+	project name is ::::::::::::::::::::::: Kami Project
+
+file: 20121218 Spanish Mountain Gold Project Au Ag Canada.txt
+	General Project: 2
+	Total Project: 1
+	Mountain Project: 2
+	Spanish Mountain Project: 7
+	Spanish Mountain Gold Project: 251
+	project name is ::::::::::::::::::::::: Spanish Mountain Gold Project
+
+file: 2013-Updated-43-101.txt
+	Economic Project: 2
+	The NorthMet Project: 1
+	PolyMet Mining Corporation NorthMet Project: 4
+	Total Project: 1
+	Owners Project: 1
+	NorthMet Project: 18
+	Optimum Project: 2
+	Commodity Price Project: 2
+	Full Project: 1
+	Former Project: 1
+	Polymet Mining CorporationNorthMet ProjectProject TitlePolyMet Mining Corporation NorthMet Project: 1
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: NorthMet Project
+
+file: 20130111 Central Murchison Gold Project Au Australia.txt
+	Initial Project: 1
+	Central Murchison Gold Project: 3
+	project name is ::::::::::::::::::::::: Central Murchison Gold Project
+
+file: 20130117 Pulacayo project Ag Pb Zn.txt
+	Pulacayo Project: 19
+	Socialization MEDMIN Pulacayo Mining Project: 1
+	The Pulacayo Mining Project: 3
+	Public Consultation Pulacayo Mining Project: 1
+	Mining Project: 1
+	Rehabilitation Project: 1
+	TWP Project: 2
+	Pulacayo Mining Project: 7
+	Pulacayo-Paca Project: 2
+	Pb-Zn-Ag Pulacayo Project: 1
+	Simplified Project: 2
+	Key Project: 2
+	Zinc Concentrate Market Project: 2
+	Pulacayo Exploration Project: 2
+	Zn Project: 1
+	project name is ::::::::::::::::::::::: Pulacayo Project
+
+file: 20130124 Groete Gold Copper Deposit Cu Au, USA.txt
+	New Project: 1
+	The Groete Gold Copper Project: 1
+	Groete Gold Copper Project: 1
+	Groete Project: 11
+	Groete Copper Gold Project: 1
+	Georgetown West Project: 1
+	Aurora Gold Project: 3
+	Survey Project: 2
+	The Groete Project: 1
+	Omai Gold Project: 1
+	AMEC Project: 1
+	Creek Project: 1
+	Mineral Project: 2
+	Supervising Project: 2
+	project name is ::::::::::::::::::::::: Groete Project
+
+file: 20130125 Casino Project Au Canada.txt
+	Casino Mine Project: 1
+	Casino Project: 28
+	Major Project: 1
+	Carmacks Copper Project: 1
+	Casino Copper-Gold Project: 1
+	Copper Gold Project: 1
+	Mineral Project: 1
+	Overall Project: 2
+	project name is ::::::::::::::::::::::: Casino Project
+
+file: 20130129 Mt Boppy Gold Project Au Australia.txt
+	Mt Boppy Project: 1
+	Mt Boppy Gold Project: 1
+	project name is ::::::::::::::::::::::: Mt Boppy Gold Project
+
+file: 20130207 Bullabulling Gold Project Au Australia.txt
+	Study
+Project: 1
+	project name is ::::::::::::::::::::::: Study Project
+
+file: 20130213 Productora Cu Au Mo Chile.txt
+	project name is ::::::::::::::::::::::: noName -- 20130213 Productora Cu Au Mo Chile
+
+file: 20130220 Almas Gold Project Au Brazil.txt
+	Paiol Project: 1
+	Samples From The Almas Project: 1
+	Almas Project: 59
+	The Almas Project: 4
+	Almas Gold Project
+Almas Gold Project: 1
+	All Project: 1
+	The Almas Gold Project: 6
+	Almas Gold Project: 137
+	Other Indirect Project: 1
+	Front End Loaded Project: 1
+	Gold Project: 3
+	Mineral Project: 1
+	Overall Project: 7
+	project name is ::::::::::::::::::::::: Almas Gold Project
+
+file: 20130304 Kirkalocka Au Australia.txt
+	Copper Project: 1
+	Kirkalocka Gold Project: 7
+	Company Project: 1
+	project name is ::::::::::::::::::::::: Kirkalocka Gold Project
+
+file: 20130306 Torlon Hill Project Zn Pb Ag Guatemala.txt
+	Torlon Project: 1
+	Torlon Hill Project: 2
+	project name is ::::::::::::::::::::::: Torlon Hill Project
+
+file: 20130322 Ilovitza Project Au Cu Mo Macedonia.txt
+	TEO Project: 1
+	For Ilovitza Project: 1
+	Ilovitza Gold Project: 234
+	A Project: 1
+	UTM HKOGEL Project: 1
+	Total Project: 5
+	HKOGEL Project: 1
+	Indicative Project: 2
+	Stanford Certified Project: 1
+	Ilovitza Project: 7
+	Survey
+Project: 1
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Ilovitza Gold Project
+
+file: 20130401 Kemess Underground Project Cu Canada.txt
+	Kemess North Project: 2
+	KUG Project: 2
+	The BC EAA Reviewable Project: 1
+	Underground Project: 3
+	First Nations Project: 2
+	SRK Project: 1
+	Kemess UG Project: 1
+	Reviewable Project: 1
+	Kemess Underground Project: 238
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Kemess Underground Project
+
+file: 20130405 Shymanivske Fe Ukraine BFS.txt
+	Black Iron Project: 1
+	Symanivske Project: 1
+	GemcomTM Project: 1
+	Shymanivske Iron Ore Project: 8
+	Proposed Shymanivske Iron Ore Project: 1
+	Shymvanivske Project: 1
+	Shymanivske Project: 26
+	Major Resource Project: 1
+	GPS-Integrated Magnetic Field And Ground Gravity Surveys Shymanivske Project: 1
+	The Shymanivske Project: 5
+	TOTAL Project: 2
+	Shymanivske Magnetite Project: 1
+	From The Shimanovskogo Project: 1
+	S5020 Shymanivske Iron Project: 1
+	Shymanivske Iron Project: 1
+	Ore Project: 1
+	A Project: 2
+	Gemcom Project: 1
+	Mineral Project: 1
+	Overall Project: 1
+	project name is ::::::::::::::::::::::: Shymanivske Project
+
+file: 20130405 Shymanivske Fe Ukraine FactSheet.txt
+	P
+Geotechni
+Conclusion
+ECOMMEND
+Mineral Re
+Data Verifi
+Mineral Pr
+Project: 1
+	Shymanivske Iron Ore Project: 4
+	Ore Project: 3
+	Tec
+Project: 1
+	Ore Conc
+Project: 1
+	P
+Project: 1
+	Iron Project: 2
+	Pe
+Project: 1
+	Simplifieed Project: 1
+	Manag
+Project: 1
+	The Gorna
+Project: 1
+	O
+Project: 1
+	Gor
+Project: 1
+	Delayed Project: 2
+	Operatin
+Project: 1
+	State E
+Project: 1
+	Iron Proje
+Project: 1
+	Risk Asses
+DJACENT PR
+THER RELEV
+Project: 1
+	project name is ::::::::::::::::::::::: Shymanivske Iron Ore Project
+
+file: 20130418 Talisman Project Au Ag New Zealand.txt
+	Talisman Pre-Feasibility Study Supports Robust Profitable Gold Project: 1
+	project name is ::::::::::::::::::::::: Talisman Pre-Feasibility Study Supports Robust Profitable Gold Project
+
+file: 20130430 Sto. Tomas II Copper-Gold Deposit Au Cu, Philippines.txt
+	PMC Exploration Project: 2
+	project name is ::::::::::::::::::::::: PMC Exploration Project
+
+file: 20130502 La Mina Gold-Copper Project Au Cu, Republic of Colombia.txt
+	La Mina Gold-Copper Project: 1
+	The La Mina Project: 1
+	La Mina Project: 158
+	Mina Project: 1
+	project name is ::::::::::::::::::::::: La Mina Project
+
+file: 20130503 Springpole Gold Project Au Ag Canada.txt
+	Environmental Assessment Project: 2
+	Springpole Gold Access Corridor Project: 1
+	NATMAP Project: 1
+	NWT Diamonds Project Project: 1
+	Springpole Lake Gold Project: 1
+	Gahcho Kue Project: 1
+	SRK Project: 1
+	Springpole Gold Project: 342
+	Major Project: 1
+	The Springpole Gold Project: 8
+	Springpole Project: 1
+	Gold Project: 2
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Springpole Gold Project
+
+file: 20130508 Joyce Lake DSO Fe Canada.txt
+	Lake DSO Project: 1
+	Our Project: 1
+	Technical Report Joyce Lake DSO Iron Project: 2
+	Total Project: 2
+	Schefferville Area Project: 1
+	DSO Project: 42
+	Joyce Lake Iron Project: 2
+	The Joyce Lake DSO Project: 2
+	Joyce Lake Direct Shipping Iron Ore Project: 3
+	The DSO Project: 2
+	Other Project: 1
+	Schefferville Project: 1
+	Joyce Lake Project: 6
+	Attikamagen Iron Project: 1
+	The Attikamagen Iron Project: 1
+	Lake Iron Project: 1
+	Joyce Lake DSO Project: 214
+	project name is ::::::::::::::::::::::: Joyce Lake DSO Project
+
+file: 20130516 Yenipazar Project Au Ag Cu Pb Zn Turkey.txt
+	Isometric Project: 4
+	Yenipazar Project: 292
+	The Yenipazar Project: 2
+	Polymetallic Project: 5
+	Orava Mine Project: 2
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Yenipazar Project
+
+file: 20130527 Shambesai Gold Project Au Kyrgyzstan.txt
+	Design
+Project: 1
+	project name is ::::::::::::::::::::::: Design Project
+
+file: 20130611 Prestea Underground Mine West Reef Project Au Ghana.txt
+	Underground Mine West Reef Project: 2
+	Prestea Underground Mine West Reef Project: 4
+	Reef Project: 2
+	The Prestea Underground Mine West Reef Project: 1
+	project name is ::::::::::::::::::::::: Prestea Underground Mine West Reef Project
+
+file: 20130618 El Roble Copper-Gold Project Au Cu Colombia.txt
+	El Roble Copper-Gold Project: 129
+	The El Roble Project: 4
+	El Roble Project: 10
+	Copper-Gold Project: 2
+	Composite Project: 1
+	project name is ::::::::::::::::::::::: El Roble Copper-Gold Project
+
+file: 20130618 Stormont Au Tasmania.txt
+	The Stormont Project: 3
+	Refining Costs During Mining Phase
+Project: 1
+	Stormont Project: 1
+	project name is ::::::::::::::::::::::: The Stormont Project
+
+file: 20130621 Brucejack Project Au Ag Canada.txt
+	Sulphurets Project: 2
+	Brucejack Lake Project: 1
+	Bruceside Project: 1
+	KSM Project: 1
+	Snowfield Project: 4
+	Ajax Project: 1
+	The Brucejack Project: 1
+	LLH Project: 2
+	Metallurgical Performance Project: 6
+	Eagle Gold Project: 1
+	Reviewable Project: 1
+	Donlin Creek Gold Project: 1
+	Competing Project: 1
+	Brucejack Project: 96
+	Northwest BC Mining Project: 1
+	EPCM Project: 1
+	Brucejack Gold Mine Project: 1
+	Snowfield-Brucejack Project: 1
+	Mineral Project: 1
+	Senior Project: 2
+	project name is ::::::::::::::::::::::: Brucejack Project
+
+file: 20130621 Volta Grande Project Au Brazil.txt
+	Grande Gold Project: 1
+	International Project: 1
+	The Volta Grande Project: 29
+	Belo Monte Dam Project: 1
+	Volte Grande Project: 4
+	The Volta Grade Project: 1
+	Volta Grade Project: 1
+	Senior Project: 3
+	Grande Project: 7
+	Volta Grande Project: 463
+	Volta Grande Gold Project: 12
+	Quatro Amostras Project: 1
+	Mineral Project: 7
+	project name is ::::::::::::::::::::::: Volta Grande Project
+
+file: 20130626 Fekola Gold Project Au Mali.txt
+	Fekola Project: 4
+	DRA Mineral Project: 2
+	project name is ::::::::::::::::::::::: Fekola Project
+
+file: 20130627 Esaase gold project Au Ghana.txt
+	Akim Project: 1
+	Esaase Project: 93
+	Summary Recent Gold Project: 1
+	Essanka Project: 1
+	Akokerri Project: 1
+	The Esaase Project: 12
+	Asumura Project: 2
+	Abronye Project: 1
+	Ajopa Project: 1
+	Tabakoto Project: 1
+	Mineral Project: 3
+	Esaase Gold Project: 9
+	Minerals Project: 1
+	Youga Mine Project: 1
+	Ity Mine Project: 1
+	Mampong Project: 1
+	Operating Cost Estimates Esaase Project: 2
+	Loulu Project: 1
+	Recent Gold Project: 1
+	Overall Optimised Esaase Project: 1
+	Relevant Gold Project: 1
+	Initial Esaase Project: 2
+	Phoenix Project: 1
+	DRA Minerals Project: 1
+	Teberebie Project: 1
+	Mkuju River Project: 4
+	DRA Mineral Project: 5
+	Chirano Project: 1
+	Mbili Coal Project: 1
+	Siguiri Gold Mine Project: 1
+	Mkuju Project: 1
+	Abore Project: 1
+	Ntotoroso Project: 1
+	Local Project: 2
+	Kalplats Project: 1
+	project name is ::::::::::::::::::::::: Esaase Project
+
+file: 20130709 Viscara Iron Copper Project Cu Fe Sweden.txt
+	Copper Project: 1
+	Viscaria Project: 4
+	Increased Project: 1
+	The Viscaria Project: 1
+	Viscaria Copper Iron Project: 1
+	project name is ::::::::::::::::::::::: Viscaria Project
+
+file: 20130723 Condor Gold and Copper Project Au Cu, Ecuador.txt
+	Condor Project: 3
+	Location Map Showing Regional Exploration Project: 2
+	Norte Project: 1
+	Copper Project: 158
+	Condor Gold Project: 13
+	The Condor Project: 1
+	Jerusalem Project: 1
+	El Condor Gold Project: 1
+	Santa Barbara-El Hito Project: 1
+	Condor Mining Project: 2
+	The Condor Gold Project: 1
+	Pachicutza Project: 1
+	project name is ::::::::::::::::::::::: Copper Project
+
+file: 20130723 Livengood Gold Project Au US.txt
+	Mineral Project: 1
+	Livengood Gold Project: 5
+	project name is ::::::::::::::::::::::: Livengood Gold Project
+
+file: 20130730 Moss Lake Project Au Canada.txt
+	Moss Lake Project: 37
+	Lake Project: 6
+	Electricity Project: 1
+	The Moss Lake Project: 3
+	project name is ::::::::::::::::::::::: Moss Lake Project
+
+file: 20130805 Glenburgh Gold Project Au Australia.txt
+	Key Project: 1
+	Glenburgh Project: 2
+	Egerton Project: 1
+	Glenburgh Gold Project: 1
+	The Glenburgh Project: 1
+	project name is ::::::::::::::::::::::: Glenburgh Project
+
+file: 20130815 El Tigre Silver Project Au Mexico.txt
+	Total Project: 1
+	El Tigre Project: 2
+	Other Project: 2
+	Sustaining Project: 1
+	El Tigre Silver Project: 7
+	EL Tigre Silver Project: 228
+	Tailings Project: 2
+	project name is ::::::::::::::::::::::: EL Tigre Silver Project
+
+file: 20130821 Matthews Ridge Manganese Project Mn Guyana.txt
+	ARES Corporation Prism Project: 1
+	Joint Industry Project: 1
+	Matthews Ridge Manganese Project: 386
+	Major Project: 1
+	Ridge Manganese Project: 42
+	Nordic Co-operative Project: 1
+	Matthews Ridge Project: 22
+	The Matthews Ridge Project: 3
+	The Matthews Ridge Manganese Project: 2
+	Total Project: 1
+	Senior Project: 1
+	Golder Project: 14
+	Presldent Project: 1
+	Stereographic Project: 2
+	Detailed Project: 1
+	Reunion Manganese Project: 2
+	project name is ::::::::::::::::::::::: Matthews Ridge Manganese Project
+
+file: 20130823 West Lombok Gold and Copper Project Au Cu, Indonesia.txt
+	Copper Project: 114
+	Lombok Project: 5
+	SRK Project: 1
+	Mineral Project: 1
+	West Lombok Project: 39
+	project name is ::::::::::::::::::::::: Copper Project
+
+file: 20130902 Deflector Gold-Copper-Silver Project Au Ag Cu Australia.txt
+	Deflector Gold-Copper Project: 1
+	project name is ::::::::::::::::::::::: Deflector Gold-Copper Project
+
+file: 20130910 Kitumba Copper Project Cu Au Zambia.txt
+	Kitumba Copper Project: 1
+	Mumbwa Project: 2
+	Kitumba Project: 5
+	project name is ::::::::::::::::::::::: Kitumba Project
+
+file: 20130910 Kitumba Copper Project Cu Zambia.txt
+	Kitumba Copper Project: 1
+	Mumbwa Project: 2
+	Kitumba Project: 5
+	project name is ::::::::::::::::::::::: Kitumba Project
+
+file: 20130913 Media Luna Gold-Copper Project.txt
+	Guajes Project: 3
+	The Media Luna Project: 3
+	Copper Project: 160
+	Media Luna Gold-Copper Project: 15
+	Morelos Project: 3
+	Luna Project: 1
+	Media Luna Project: 8
+	Morelos Gold Project: 2
+	Regional Project: 2
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Copper Project
+
+file: 20130930 Misima Gold-Copper Project Cu Au, New Guinea.txt
+	Population Project: 1
+	Misima Project: 158
+	Misima Gold-Copper Project: 3
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Misima Project
+
+file: 20131002 Kopsa Gold Copper Project Au Cu, Canada.txt
+	Kopsa Gold Copper Project: 1
+	project name is ::::::::::::::::::::::: Kopsa Gold Copper Project
+
+file: 20131002 Kopsa Project Au Cu Ag Finland.txt
+	Cash Flow Project: 2
+	Kopsa Project: 5
+	SRK Project: 2
+	EU Life Project: 2
+	The Kopsa Project: 1
+	Mineral Project: 2
+	Kopsa Copper Gold Project: 2
+	project name is ::::::::::::::::::::::: Kopsa Project
+
+file: 20131009 Back River Gold Project Au Canada.txt
+	Yearly Gold Production Project: 2
+	River Project: 4
+	BIPAR Project: 1
+	All Project: 1
+	The Back River Project: 1
+	NIRB Project: 1
+	Pebble Project: 1
+	Back River Project: 25
+	Gold Recovery Project: 4
+	Hackett River Project: 4
+	Mineral Project: 1
+	River Gold Project: 1
+	Ajax Copper-Gold Project: 1
+	Mining Project: 2
+	George Project: 4
+	A Project: 2
+	HRI Project: 1
+	Northern Project: 1
+	Spanish Mountain Project: 1
+	Red Dog Project: 1
+	The Hackett River Project: 1
+	Meliadine Gold Project: 1
+	Road Project: 1
+	Dundee Precious Metals Back River Project: 1
+	Technical Report Hackett River Project: 1
+	Back River Gold Project: 76
+	George Lake Project: 3
+	Gold Project: 1
+	Goose Project: 7
+	project name is ::::::::::::::::::::::: Back River Gold Project
+
+file: 20131010 San Ramon Au Columbia.txt
+	ASSOCIATES
+Red Eagle Mining
+San Ramon Project: 4
+	Santa Rosa Project: 224
+	San Ramon Project: 2
+	San Ramon Mine Project: 1
+	Five Original Project: 2
+	San Ramon Mining Project: 4
+	Santa Rosa Gold Project: 2
+	project name is ::::::::::::::::::::::: Santa Rosa Project
+
+file: 20131011 Lake St Joseph Iron Property Fe Canada.txt
+	Current Project: 1
+	Rockex Project: 2
+	The Western LSJI Project: 1
+	Eagle Island Project: 6
+	LSJI Project: 1
+	The Rockex Project: 1
+	Joseph Iron Ore Project: 1
+	Designated Project: 1
+	Joseph Project: 2
+	Mineral Project: 1
+	Senior Project: 2
+	project name is ::::::::::::::::::::::: Eagle Island Project
+
+file: 20131022 Buena Vista Fe USA.txt
+	The Buena Vista Project: 1
+	Vista Iron Project: 1
+	Buena Vista Project: 7
+	Buena Vista Ore Project: 1
+	Buena Vista Iron Project: 395
+	The Buena Vista Iron Project: 1
+	Nevada Iron Project: 1
+	project name is ::::::::::::::::::::::: Buena Vista Iron Project
+
+file: 20131202 Bird-in-Hand Gold project Au Australia.txt
+	Bird-in-Hand Gold Project: 5
+	The Bird-in-Hand Gold Project: 2
+	Hand Gold Project: 1
+	project name is ::::::::::::::::::::::: Bird-in-Hand Gold Project
+
+file: 20131210 Hermosa Project Au Ag  USA.txt
+	Mineral Resource Hermosa Project: 1
+	Wildcat Hermosa Project: 1
+	The Hermosa Project: 4
+	Hermosa Project: 54
+	After Tax Project: 1
+	Rosemont Project: 1
+	Key Project: 2
+	project name is ::::::::::::::::::::::: Hermosa Project
+
+file: 20131219 SierraMojada Ag-Zn Mexico.txt
+	Coeur Mexico Project: 1
+	Silver- Zinc Project: 1
+	The Sierra Mojada Project: 2
+	Drill Hole History Sierra Mojada Project: 4
+	Senior Project: 1
+	Sierra Mojada Project: 66
+	Immediate Sierra Mojada Project: 2
+	Main Project: 2
+	Coarse Ore Stockpile
+Processing Plant
+Tailings
+On-Site Infrastructure
+Off Site Infrastructure
+Project: 1
+	Sierra Mojada Mining Project: 1
+	Silver-Zinc Project: 1
+	Significant Internal Project: 2
+	Silver-Zinc Sierra Mojada Project: 2
+	Technical Report Sierra Mojada Silver-Zinc Project: 1
+	Mojada Project: 2
+	project name is ::::::::::::::::::::::: Sierra Mojada Project
+
+file: 20131231 Lihir Property Au Papua New Guinea.txt
+	Mineral Project: 3
+	project name is ::::::::::::::::::::::: Mineral Project
+
+file: 2013_August_28_NI43-101_timmins_porcupine_west.txt
+	Timmins Porcupine West Project: 1
+	TPW Project: 2
+	project name is ::::::::::::::::::::::: TPW Project
+
+file: 2014-03_Platreef_PEA.txt
+	Platreef Project: 130
+	Geotechnical Project: 2
+	Platinum Project: 1
+	Olifants River Water Resource Development Project: 1
+	The Olifants River Water Resource Development Project: 2
+	Ivanplats Project: 1
+	New Project: 2
+	Ownership Structure For The Platreef Project: 2
+	Water Infrastructure Project: 1
+	SRK Project: 2
+	After Tax Project: 2
+	The Pruissen Pipeline Project: 1
+	The Platreef Project: 7
+	Since Project: 1
+	Research Project: 1
+	Temporary Project: 3
+	Olifants River Water Resources Development Project: 5
+	Kipushi Project: 2
+	Mineral Project: 6
+	Kamoa Project: 2
+	project name is ::::::::::::::::::::::: Platreef Project
+
+file: 201401 Jiama Project Cu Mo Zn Pb Au Ag China.txt
+	Jiama Phase II Expansion Project: 1
+	Jiama Expansion Project: 1
+	Phase II Expansion Project: 1
+	Polymetallic Project: 7
+	Jiama Copper Polymetallic Project: 4
+	Expansion Project: 1
+	The Jiama Project: 1
+	Jiama Phase II Project: 1
+	Jiama Project: 11
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Jiama Project
+
+file: 201401 Kannukainen Iron-Copper-Gold, Finland.txt
+	Cash Flow Project: 2
+	Tapuli Project: 1
+	Total Project: 1
+	Gold Mine Project: 1
+	Hannukainen Project: 4
+	Hannukainen Preliminary Economic Assessment Project: 1
+	SRK Project: 2
+	NET Project: 1
+	Twin Parameter Project: 6
+	Pajala Project: 2
+	A
+Process Plant
+Project: 2
+	project name is ::::::::::::::::::::::: Twin Parameter Project
+
+file: 20140113 Matala Gold Project Au Zambia.txt
+	Matala Gold Project: 1
+	Dunrobin Project: 1
+	Luiri Hill Gold Project: 1
+	project name is ::::::::::::::::::::::: Matala Gold Project
+
+file: 20140120 Chinchillas Silver-Lead-Zinc Project Ag Pb Zn Argentina.txt
+	Pulacayo Project: 1
+	Initial Project: 3
+	Chinchillas Project: 40
+	The Chinchillas Project: 7
+	Chinchilla Project: 1
+	Mineralized Zones Project: 5
+	Other Project: 2
+	Chinchillas Silver-Lead-Zinc Project: 159
+	The Chinchillas Silver-Lead-Zinc Project: 1
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Chinchillas Silver-Lead-Zinc Project
+
+file: 20140127 Karma Gold Project Au Burkina Faso.txt
+	LOM Project: 2
+	SIGAfrique Project: 1
+	Total Project: 1
+	Karma Project: 411
+	Estimated Project: 1
+	Karma Gold Project: 5
+	The Karma Project: 4
+	The Karma Gold Project: 1
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Karma Project
+
+file: 20140128 Hardrock Project Au Canada.txt
+	FS
+Project: 1
+	Hardrock Project: 2
+	Arboriginal Engagement
+Premier Gold Board Project: 1
+	Brookbank Project: 3
+	District Scale Project: 1
+	Key Project: 1
+	Key
+Lake Project: 1
+	project name is ::::::::::::::::::::::: Brookbank Project
+
+file: 20140129 Agbaja Project Fe Nigeria.txt
+	Magnetite Project: 2
+	Agbaja Project: 9
+	The Agbaja Project: 6
+	Agbaja Iron Ore Project: 1
+	project name is ::::::::::::::::::::::: Agbaja Project
+
+file: 20140130 Magino Poject Au Canada.txt
+	Prodigy Gold Magino Project: 1
+	Magino Gold Project: 55
+	PIT GEOTECHNICAL
+MAGINO GOLD PROJECT
+Project: 1
+	Minimize Project: 1
+	Premier Gold Project: 1
+	The Magino Gold Project: 2
+	Gold Project: 2
+	Main Project: 2
+	Mineral Project: 1
+	Identified Project: 2
+	Facility Development Project: 1
+	Electricity Project: 1
+	The Magino Project: 1
+	Magino Project: 41
+	Overall Project: 1
+	project name is ::::::::::::::::::::::: Magino Gold Project
+
+file: 20140130 Nangodi Au Ghana.txt
+	Nangodi	Project: 3
+	Nangodi Project: 191
+	NANGODI
+Project: 3
+	Nangodi	Gold	Project: 3
+	The	Nangodi	Project: 1
+	The	Nangodi	Gold	Project: 1
+	Senior	Project: 2
+	Chemical ConsumptionsNangodi Project: 3
+	Central	Nangodi	Project: 2
+	MTNangodi Project: 1
+	project name is ::::::::::::::::::::::: Nangodi Project
+
+file: 20140201 West Desert Zn-Fe-Cu USA FactSheet.txt
+	InZinc Reports Positive Preliminary Economic Assessment For West Desert Zinc-Iron-Copper Project: 1
+	project name is ::::::::::::::::::::::: InZinc Reports Positive Preliminary Economic Assessment For West Desert Zinc-Iron-Copper Project
+
+file: 20140201 West Desert Zn-Fe-Cu USA PEA.txt
+	Metallurgical Project: 2
+	Estimated Project: 1
+	West Desert Zinc-Copper-Indium-Magnetite Project: 1
+	Development
+Project: 3
+	West Desert Project: 206
+	ASSOCIATES
+InZinc Mining Ltd
+West Desert Project: 1
+	project name is ::::::::::::::::::::::: West Desert Project
+
+file: 20140218 Vizcachitas Copper orMolybdenum Project Cu Mo Chile.txt
+	Vizcachitas Project: 18
+	Pre-feasibility Study Rio Rocin Hydro Electric Project: 1
+	Plot Plan Project: 2
+	The Vizcachitas Project: 1
+	Molybdenum Project: 3
+	Mineral Project: 5
+	project name is ::::::::::::::::::::::: Vizcachitas Project
+
+file: 20140313 Hardrock-Broadbank Au Canada.txt
+	Geraldton Project: 7
+	Hardrock Mine Project: 2
+	Base Case Project: 2
+	River Project: 1
+	Waste Management Project: 1
+	Mineral Resource Project: 1
+	Case Project: 2
+	MS Project: 1
+	Inferred Mineral Resource Project: 1
+	Mineral Project: 4
+	Inferred Mineral Project: 1
+	Hardrock Project: 71
+	Dewatering Program Project: 1
+	Premier Gold Hardrock Project: 3
+	The Brookbank Project: 9
+	Provincial Waste Management Project: 1
+	Beardmore Project: 2
+	Leitch-Sand River Project: 1
+	Northern Empire Mill Project: 1
+	Longitudinale Project: 1
+	Mosher Dewatering Project: 2
+	Namewaminikan River Waterpower Project: 1
+	Empire Mill Project: 1
+	Exploration Program Geraldton Project: 1
+	The Geraldton Project: 1
+	Mapping Project: 2
+	Facility Development Project: 2
+	Keylake Project: 2
+	Electricity Project: 1
+	The Hardrock Project: 12
+	Designated Project: 4
+	Premier Gold Brookbank Project: 3
+	Premier Project: 2
+	Brookbank Project: 484
+	Advanced Exploration Project: 1
+	project name is ::::::::::::::::::::::: Brookbank Project
+
+file: 20140320 Batangas Project Au Ag Philippines.txt
+	Total Project: 3
+	Batangas-Lobo Gold Project: 1
+	Gold Project: 2
+	Batangas Gold Project: 3
+	project name is ::::::::::::::::::::::: Total Project
+
+file: 20140324 Sotkamo Silver Project Ag Au Pb Zn Finland.txt
+	Silver Mine Project: 2
+	Sotkamo Silver Mine Project: 1
+	project name is ::::::::::::::::::::::: Silver Mine Project
+
+file: 20140402 Reed Copper Project Cu Au Ag Zn Canada.txt
+	The Reed Project: 1
+	Reed Copper Project: 17
+	Fuel Tanks
+Project: 1
+	The Reed Copper Project: 1
+	Reed Project: 6
+	Exploration Project: 1
+	Advanced Exploration Project: 1
+	Reed Lake Project: 1
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Reed Copper Project
+
+file: 20140409 Duparquet Project Au Canada.txt
+	Duparquet Project: 11
+	The Duparquet Project: 3
+	Mineral Project: 1
+	project name is ::::::::::::::::::::::: Duparquet Project
+
+file: 20140513 Catibou project Zn Cu Pb Au Ag Canada.txt
+	Caribou Mine Project: 3
+	Estimated LOM Caribou Project: 1
+	Caribou Project: 2
+	project name is ::::::::::::::::::::::: Caribou Mine Project
+
+file: 20140527 Gahcho Kue Project Diamond Canada.txt
+	GKJV Project: 1
+	Costs
+Project: 1
+	Initial Project: 1
+	Updated Project: 3
+	Diamond Project: 4
+	Kimberlite Project: 5
+	GK Project: 1
+	An Operational Readiness Project: 1
+	EPCM Project: 1
+	A Project: 1
+	Ledcor Project: 2
+	Mineral Project: 1
+	Overall Project: 1
+	project name is ::::::::::::::::::::::: Kimberlite Project
+
+file: 20140527 Longstreet Gold Project Au Ag USA.txt
+	The Longstreet Project: 1
+	Star Gold Longstreet Project: 1
+	Longstreet Gold Project: 15
+	Leach Cyanidation Testing Longstreet Project: 1
+	Longstreet Project: 124
+	project name is ::::::::::::::::::::::: Longstreet Project
+
+file: 20140619 Granada Gold Project Au Canada.txt
+	The Granada Gold Project: 1
+	Microsoft Project: 1
+	Westwood Project: 1
+	Granada Gold Project: 4
+	Gold Bullion Granada Project: 1
+	Granada Project: 24
+	Open Pit Granada Gold Project: 264
+	The Granada Project: 1
+	Gold Project: 1
+	Mineral Project: 4
+	project name is ::::::::::::::::::::::: Open Pit Granada Gold Project
+
+file: 20140620 Timok Project Au Serbia.txt
+	The Timok Gold Project: 2
+	Timok Gold Project: 10
+	Gold Project: 1
+	project name is ::::::::::::::::::::::: Timok Gold Project
+
+file: 20140724 Second Fortune underground gold mine Au Australia.txt
+	Linden Gold Project: 1
+	Linden Project: 3
+	Gold Project: 1
+	Second Fortune Gold Project: 1
+	project name is ::::::::::::::::::::::: Linden Project
+
+file: 43-101-Technical-Summary-Report-Muskowekwan-Project.txt
+	Potash Resource Assessment For Muskowekwan First Nations Project: 84
+	Muskowekwan Home Reserve Project: 1
+	Muskowekwan First Nations Project: 2
+	Jansen Project: 1
+	project name is ::::::::::::::::::::::: Potash Resource Assessment For Muskowekwan First Nations Project
+
+file: 43-101_MtTodd_Vista-Oct2012-Final-20121004.txt
+	The Mt Todd Gold Project: 1
+	Mt Todd Gold Project: 3
+	PAH Project: 1
+	Mt Todd Project: 2
+	Tetra Tech Project: 1
+	Water Erosion Prediction Project: 1
+	Todd Project: 24
+	Todd Gold Project: 180
+	Gold Project: 2
+	project name is ::::::::::::::::::::::: Todd Gold Project
+
+file: 497d38b6bc1d49b6960aaf44aa06d251_20120406_43-101-report-updateVMS_Vf.txt
+	Metallurgical Project: 2
+	CIL Project: 2
+	Summary Project: 1
+	Proposed VMS Project: 1
+	Hassai CIP Project: 1
+	The Hassai Mine Project: 225
+	CIL Gold Project: 1
+	VMS Project: 5
+	Hassai Project: 3
+	Phased VMS Project: 1
+	The Hassai CIL Gold Project: 2
+	Ariab VMS Project: 1
+	Gold Project: 6
+	Mineral Project: 3
+	The VMS Project: 2
+	project name is ::::::::::::::::::::::: The Hassai Mine Project
+
+file: BackRiver_PEA_Report_2CS031 000_Sabina_JY_20120629.txt
+	Back River Exploration Project: 2
+	Road Project: 1
+	Hackett River Project: 3
+	Total Project: 2
+	River Project: 1
+	External Project: 2
+	Back River George Project: 1
+	The Back River Project: 16
+	George Project: 20
+	Mining Project: 1
+	Internal Project: 2
+	Back River Umwelt Project: 1
+	SRK Project: 1
+	Back River Project: 59
+	Report Hackett River Project: 1
+	The George Project: 1
+	Back River Gold Project: 94
+	George Lake Project: 1
+	Sabina Back River Project: 4
+	Goose Project: 2
+	project name is ::::::::::::::::::::::: Back River Gold Project
+
+file: Bligh-delivers-a-scoping-study-confirming-development-potential-at-Bundarra-project.txt
+	Bundarra Project: 6
+	Current Project: 1
+	The Bundarra Gold Project: 3
+	Bundarra Gold Project: 9
+	project name is ::::::::::::::::::::::: Bundarra Gold Project
+
+file: Block 103 CapEx-PEA_REPORT_2013-08-02.txt
+	BBA Project: 2
+	Major Resource Project: 1
+	Major Project: 1
+	Detailed Project: 2
+	Pelletizing Project: 2
+	Simplified Project: 2
+	Iron Ore Project: 1
+	Helicopter-borne Magnetic Survey Bedford Project: 1
+	project name is ::::::::::::::::::::::: Pelletizing Project
+
+file: Bullabulling-Gold-Project-Prefeasibility-Study-Results5.txt
+	Study
+Project: 1
+	project name is ::::::::::::::::::::::: Study Project
+
+file: Cap-ex Iron Ore Ltd-PEA_REPORT_2013-08-02.txt
+	BBA Project: 2
+	Major Resource Project: 1
+	Major Project: 1
+	Detailed Project: 2
+	Pelletizing Project: 2
+	Simplified Project: 2
+	Iron Ore Project: 1
+	Helicopter-borne Magnetic Survey Bedford Project: 1
+	project name is ::::::::::::::::::::::: Pelletizing Project
+
+file: DFS Castle Hill, Pheonix Gold 100214.txt
+	Castle Hill Gold Project: 1
+	project name is ::::::::::::::::::::::: Castle Hill Gold Project
+
+file: Entree_Gold_Lookout_Hill.txt
+	Lookout Hill Project: 1
+	Total Project: 2
+	The Oyu Tolgoi Project: 2
+	Copper Project: 1
+	Advanced Project: 1
+	Rio Tinto Copper Project: 2
+	Turquoise Hill Project: 1
+	Oyu Tolgoi Project: 61
+	OT Project: 1
+	QC Advanced Project: 1
+	Ivanhoe JV Project: 1
+	Plan Project: 1
+	Future Project: 2
+	Mineral Project: 2
+	Tolgoi Project: 1
+	project name is ::::::::::::::::::::::: Oyu Tolgoi Project
+
+file: Entree_Gold_NI_43-101-Nov_15_2012_FINAL_REPORT.txt
+	Metallurgical Project: 4
+	Ann Mason Copper-Molybdenum-Gold Project: 2
+	Blue Hills Project: 1
+	Blue Hill Project: 1
+	Yerington Project: 4
+	Roulette Project: 1
+	Yerington West Project: 1
+	Ann Mason Copper Project: 1
+	Blue Hill Oxide Project: 1
+	The Yerington Project: 1
+	MacArthur Copper Project: 2
+	Mason Project: 4
+	The Ann Mason Mining Project: 1
+	Ann-Mason Project: 1
+	The Ann Mason Project: 4
+	Ann Mason Exploration Project: 1
+	MacArthur Project: 5
+	Ann Mason Project: 76
+	Mineral Project: 3
+	project name is ::::::::::::::::::::::: Ann Mason Project
+
+file: Feb-13--Gidgee-Fact-Sheet_WA_Au.txt
+	The Gidgee Project: 1
+	Gidgee Gold Project: 1
+	project name is ::::::::::::::::::::::: Gidgee Gold Project
+
+file: Feb4-2011 1430 MtTodd 10 65MTPY PFS Final_v3_small.txt
+	Tetra Tech Project: 1
+	PAH Project: 1
+	Quigleys Gold Project: 1
+	Water Erosion Prediction Project: 1
+	Todd Project: 28
+	Todd Gold Project: 230
+	Gold Project: 1
+	project name is ::::::::::::::::::::::: Todd Gold Project
+
+file: Final-Macarthur-Minerals-43-101-Tech-Report-20120103.txt
+	Lake Giles Hematite Project: 2
+	Lake Giles Project: 3
+	Macarthur Project: 1
+	The Ularring Hematite Project: 1
+	Pre-tax Project: 1
+	Hematite Project: 2
+	Macarthur Hematite Project: 18
+	Ularring Iron Ore Project: 1
+	The Ularring Project: 1
+	Lake Giles Iron Project: 2
+	Ularring Hematite Project: 24
+	Lake Giles Iron Ore Project: 1
+	Ularring Project: 4
+	UlarringHematite Project: 1
+	project name is ::::::::::::::::::::::: Ularring Hematite Project
+
+file: FINAL_Technical_Report_on__Telfer_Property_December31__2013___010414.txt
+	Satellite Project: 2
+	Telfer Project: 1
+	Mineral Project: 3
+	Major Project: 1
+	project name is ::::::::::::::::::::::: Mineral Project
+
+file: Gryphon Minerals Ltd - Banfora Gold Project.txt
+	Other Project: 1
+	Banfora Gold Project: 22
+	Banfora Project: 1
+	Ore Reserve Estimates Banfora Gold Project: 1
+	Moz Banfora Gold Project: 1
+	The Banfora Gold Project: 2
+	project name is ::::::::::::::::::::::: Banfora Gold Project
+
+file: Kingsgate Fact Sheet 211209 - thailand gold.txt
+	project name is ::::::::::::::::::::::: noName -- Kingsgate Fact Sheet 211209 - thailand gold
+
+file: Kryso Presentation - April 2013_tajikistan Gold.txt
+	Moz Au Pakrut Gold Project: 1
+	Chief Project: 1
+	Pakrut Gold Project: 11
+	project name is ::::::::::::::::::::::: Pakrut Gold Project
+
+file: MUXTunkilliaScopingStudyApril2012.txt
+	Mungana Gold Project: 3
+	The Mungana Gold Project: 1
+	Tunkillia Gold Project: 2
+	The Tunkillia Gold Project: 1
+	Tunkillia Project: 1
+	Mungana Goldmines Project: 1
+	Gold Project: 2
+	project name is ::::::::::::::::::::::: Mungana Gold Project
+
+file: ni-43-101_report_pea_of_the_dlip.txt
+	The Duncan Lake Iron Project: 1
+	Duncan Lake Iron Project: 23
+	Duncan Project: 1
+	James Bay Power Project: 1
+	Senior Project: 1
+	Pelletizing Project: 1
+	Duncan Lake Project: 2
+	The DLIP Project: 2
+	April Rice
+Project: 1
+	Duncan Lake Iron Ore Project: 2
+	Mineral Project: 1
+	Duncan Like Iron Project: 1
+	project name is ::::::::::::::::::::::: Duncan Lake Iron Project
+
+file: Northern Graphite Corp.txt
+	project name is ::::::::::::::::::::::: noName -- Northern Graphite Corp
+
+file: PEA_Final2011, alderon iron ore corp.txt
+	A Major Resource Project: 1
+	Technical Report Bloom Lake Project: 1
+	Major Resource Project: 1
+	Major Project: 3
+	Kami Iron Ore Project: 9
+	Bloom Lake Project: 1
+	Kami Mine Project: 2
+	Site Plan Kami Iron Ore Project: 2
+	The Major Project: 1
+	Risk Register KAMI Iron Ore Project: 1
+	The Kami Project: 2
+	Simplified Project: 2
+	Kami Project: 18
+	Reference Project: 2
+	The Kami Iron Ore Project: 1
+	project name is ::::::::::::::::::::::: Kami Project
+
+file: PFS_Exec_Summary_Nov_2013.txt
+	project name is ::::::::::::::::::::::: noName -- PFS_Exec_Summary_Nov_2013
+
+file: Sandspring Resource - Guyana Gold details of pfs and financial modeling.txt
+	project name is ::::::::::::::::::::::: noName -- Sandspring Resource - Guyana Gold details of pfs and financial modeling
+
+file: SRK_Report_for_Kryso_Pakrut Gold_Final_2013June04.txt
+	Meulaboh Bara Coal Project: 1
+	Pakrut Project: 42
+	Pakrut Gold Project: 158
+	Horizontal Project: 2
+	The Pakrut Gold Project: 2
+	The Pakrut Project: 2
+	Pakrut Gold Mine Project: 1
+	project name is ::::::::::::::::::::::: Pakrut Gold Project
+
+file: Strange Lake PEA NI 43-101 Report FINAL 9 April 2014 REV E.txt
+	LOM Project: 4
+	Cash Flow Project: 2
+	Lake Project: 5
+	Northern Project: 15
+	Strange Lake Project: 26
+	Price Project: 1
+	Strange Lake Rare Earth Project: 1
+	Southern Project: 14
+	The Strange Lake Project: 2
+	George River Project: 2
+	Key Project: 4
+	Designated Project: 1
+	Average Project: 4
+	project name is ::::::::::::::::::::::: Strange Lake Project
+
+file: TA 7 Pre-feasibility Mining Study 2008.txt
+	Iron Ore Project: 1
+	Mining Project: 1
+	Weld Range Project: 9
+	Weld Range Iron Ore Project: 11
+	project name is ::::::::::::::::::::::: Weld Range Iron Ore Project
+
+file: torex gold presentation.txt
+	Main Project: 1
+	Million Project: 1
+	Complete Project: 1
+	Morelos Gold Project: 1
+	Morelos Project: 1
+	project name is ::::::::::::::::::::::: Morelos Project
+	
+file: Reno_Creek_Property_Technical_Report_October_13_2010.txt
+	Creek ISL Project: 1
+	Nichols Ranch Project: 1
+	Northwest North Butte Project: 1
+	ISL Project: 1
+	Recovery Project: 1
+	Nichols Ranch ISR Project: 3
+	Moore Ranch Uranium Project: 1
+	Mineral Project: 2
+	Reno Creek Project: 7
+	project name is ::::::::::::::::::::::: Reno Creek Project
+
+file: Rosemont Copper project Feasability study.txt
+	For The Rosemont Copper Project: 1
+	Echo Bay Gold Aquarius Project: 1
+	Alene Mines Corporation Boleo Project: 1
+	Convey Upgrade Project: 1
+	Phelps Dodge Morenci Coronado Lead Project: 1
+	Kennecott Carmen Feasibility Project: 1
+	Kennecott Greens Creek Cleaner Flotation Project: 1
+	Echo Bay Paredones Amarillos Project: 1
+	I Madero Project: 1
+	Rosemont Project: 9
+	The Rosemont Project: 1
+	Hecla KT Clay Monterrey Expansion Project: 1
+	Battle Mountain Gold Crown Jewel Project: 1
+	ASARCO Ray Tankhouse Upgrade Project: 1
+	Phelps Dodge Ajo Concentrator Project: 1
+	Chapada Project: 1
+	Francisco Gold El Sauzal Project: 1
+	Geomaque San Francisco Gold Project: 1
+	Kennecott Sweetwater Uranium Water Recycle Project: 1
+	Hecla Rosebud Gold Project: 1
+	Central Arizona Project: 3
+	Placer Dome Mulatos Gold Project: 1
+	ASARCO Ray Secondary Crushing Project: 1
+	Fresnillo Grinding Expansion Project: 1
+	Golden Queen Mining Soledad Mountain Project: 1
+	Grupo Mexico Cananea Raffinate Neutralization Project: 1
+	Rosemont Copper Project: 141
+	Minera Penmont La Herradura Gold Project: 1
+	project name is ::::::::::::::::::::::: Rosemont Copper Project
+
+file: San Ramon Deposit.txt
+	Santa Rosa Project: 133
+	Santa Rosa Gold Project: 2
+	San Ramon Project: 4
+	ASSOCIATES
+Red Eagle Mining
+San Ramon Project: 4
+	Five Original Project: 2
+	project name is ::::::::::::::::::::::: Santa Rosa Project
+
+file: Santacruz_Silver_Mining_NI_43_101_Technical_Report_30Aug2012.txt
+	San Felipe Project: 91
+	MTB Project: 1
+	The San Felipe Project: 1
+	project name is ::::::::::::::::::::::: San Felipe Project
+
+file: SEGA NI 43-101 301112.txt
+	Total Other Project: 1
+	The Sega Project: 13
+	Sega Project: 62
+	Proposed Project: 2
+	SEGA Gold Project: 278
+	Karma Project: 2
+	Group Project: 4
+	Other Project: 5
+	Mineral Project: 1
+	Direct Project: 2
+	Overall Project: 3
+	project name is ::::::::::::::::::::::: SEGA Gold Project
+
+file: shore_technical_report_20110826.txt
+	The Star Diamond Project: 3
+	Star Kimberlite Project: 1
+	All Project: 1
+	Midwest Project: 1
+	South Diamond Project: 6
+	Star Project: 1
+	Mineral Project: 2
+	Supervising Project: 2
+	Star-Orion South Diamond Project: 7
+	New Project: 1
+	Orava Mine Project: 2
+	Diamond Project: 12
+	Senior Project: 1
+	Initial Project: 1
+	Project Proposal Star-Orion South Diamond Project: 1
+	Corne Joint Venture Diamond Exploration Project: 1
+	Orion South Diamond Project: 57
+	Final Project: 2
+	Total Project: 1
+	Star Kimberlite Open Pit Project: 1
+	Estimated Project: 1
+	Corne Joint Venture Project: 1
+	Star Diamond Project: 19
+	Clifton Project: 1
+	project name is ::::::::::::::::::::::: Orion South Diamond Project
+
+file: South_Doughstick_TechnicalReport_Amended_and_Restated_2_25_2010.txt
+	North Rolling Pin Project: 1
+	Nichols Ranch Uranium In-Situ Recovery Project: 1
+	Northwest North Butte Project: 1
+	Venture Project: 1
+	Nichols Ranch ISR Project: 3
+	Moore Ranch Uranium Project: 1
+	Mineral Project: 3
+	project name is ::::::::::::::::::::::: Mineral Project
+
+file: Tech-Report-CanTung-Mine.txt
+	Mactung Project: 1
+	The Pre-Tax Cash Flow Project: 2
+	project name is ::::::::::::::::::::::: The Pre-Tax Cash Flow Project
+
+file: TR-PA-Nichols-Ranch-ISR-SEDAR.txt
+	Uranium ISR Project: 1
+	Nichols Ranch Uranium In-
+Situ Recovery Project: 1
+	Nichols Ranch Uranium Project: 1
+	The Nichols Ranch ISR Project: 1
+	Nichols Ranch Uranium In-Situ Recovery Project: 3
+	Nichol Ranch ISR Project: 1
+	Uranerz Project: 1
+	Ranch ISR Project: 1
+	Collins Draw Project: 1
+	Nichols Ranch ISR Project: 9
+	Technical Report PA-Nichols ISR Project: 73
+	Mineral Project: 2
+	Nichols Ranch Uranium ISR Project: 72
+	project name is ::::::::::::::::::::::: Technical Report PA-Nichols ISR Project
+
+file: UpdatedMineralResourceEstimate300512.txt
+	Molybdenum-Gold Project: 2
+	Yandera Copper-Molybdenum-Gold Project: 6
+	Yandera Central Project: 2
+	Yandera Copper-Molybdenum Project: 2
+	Yandera Project: 25
+	Yandera Copper Project: 1
+	Molybdenum Project: 1
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Yandera Project
+
+file: WNB-ENB-WC_Final_Report_12.9.08.txt
+	North Rolling Pin Project: 1
+	Moore Ranch Uranium Project: 1
+	Northwest North Butte Project: 1
+	Nichols Ranch Uranium Project: 1
+	ISR Project: 1
+	Recovery Project: 1
+	Willow Creek Project: 2
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Mineral Project
+
+file: YAOURE PEA REPORT 25APR2014.txt
+	Angovia Project: 1
+	CI Yaoure Mining SA Project: 1
+	Should Yaoure Gold Project: 1
+	The Yaoure Project: 2
+	Yaoure Project: 17
+	Yaoure Gold Project: 15
+	Other Project: 1
+	Location Map Yaoure Gold Project: 2
+	Yaoure Sulphide Project: 4
+	Key Project: 2
+	Kalsaka Project: 1
+	Gold Project: 2
+	Mineral Project: 2
+	project name is ::::::::::::::::::::::: Yaoure Project
+
